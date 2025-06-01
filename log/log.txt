@@ -1,0 +1,426 @@
+今日已领取，comm_id=513,Task_id=1508
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "no_cjnum", "info": "你还没有抽奖次数哦，快去完成任务获得次数吧~"}
+{"key": "ok", "id": 45, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com/?imm=1\">爆米花商店</a>兑换礼包，赶紧前往爆米花商店了解详情吧！", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 45, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com/?imm=1\">爆米花商店</a>兑换礼包，赶紧前往爆米花商店了解详情吧！", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 45, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com/?imm=1\">爆米花商店</a>兑换礼包，赶紧前往爆米花商店了解详情吧！", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 45, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com/?imm=1\">爆米花商店</a>兑换礼包，赶紧前往爆米花商店了解详情吧！", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 45, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com/?imm=1\">爆米花商店</a>兑换礼包，赶紧前往爆米花商店了解详情吧！", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 45, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com/?imm=1\">爆米花商店</a>兑换礼包，赶紧前往爆米花商店了解详情吧！", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "复活币*1", "code": null, "pwd": null, "tips": "1、道具礼包码将在游戏正式上线后，通过快爆小铃铛（首页右上角）通知的形式通知发放；<br>\r\n2、届时可在<a class=\"cl02\" href=\"https://huodong3.3839.com/n/hykb/myprize/index.php?imm=1\">快爆获奖信息查询页面</a>中查看进度！", "type": "bind", "bind": {"is_bind": 0, "has": 1, "name": "QQ", "content": "<div class=\"mp-bind-area\"><div class=\"label\" onclick=\"ACT.toActivityWaps('https://huodong3.3839.com/n/hykb/bangding/?imm=1&t=104&hdid=549&s=1','');return false;\"><span class=\"it\">QQ</span><span class=\"val cl01\">1917512206</span></div></div>", "url": "https://huodong3.3839.com/n/hykb/bangding/?imm=1&t=104&hdid=549&s=1", "bind_id": "1", "check": "0"}, "draw_num": 0, "game_no_state": 0, "authentication": 1, "prize_authentication": "0"}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 225, "name": "绿宝石*100", "code": "mdpypraryj", "pwd": null, "tips": "礼包码使用方法：进入游戏点击左下角更多-设置-上方礼包码兑换，本活动<span class=\"cl02\">礼包码有效期截止至2025年12月31日</span>，为避免过期请尽快兑换，仅限安卓渠道使用，同类型礼包只能兑换一次；", "type": "code", "bind": null, "draw_num": 1, "game_no_state": 0, "authentication": 1, "prize_authentication": "0"}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 315, "name": "炙阳4头、炙阳4甲、AKS-74M、Bs子弹", "code": "spnnhjnnj3", "pwd": null, "tips": "1、礼包码使用方式：进入游戏-左下角点击游戏设置-左侧拉至底部-礼包码兑换奖励，输入兑换码进行兑换，兑换后返回主页右下角邮箱即可领取；<br>\r\n2、<span class=\"cl02\">礼包码有效期截止至2025年6月18日</span>，全渠道通用，同一账号仅可使用一次，请尽快使用以防过期。", "type": "code", "bind": null, "draw_num": 1, "game_no_state": 0, "authentication": 1, "prize_authentication": "0"}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "102", "info": "对不起，该活动已经结束。"}
+{"key": "102", "info": "对不起，该活动已经结束。"}
+{"key": "102", "info": "对不起，该活动已经结束。"}
+{"key": "102", "info": "对不起，该活动已经结束。"}
+{"key": "102", "info": "对不起，该活动已经结束。"}
+{"key": "102", "info": "对不起，该活动已经结束。"}
+{"key": "102", "info": "对不起，该活动已经结束。"}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl01\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl01\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl01\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl01\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl01\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl01\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl01\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl01\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧", "type": "bmh", "draw_num": 1}
+{"key": "no_cjnum", "info": "你还没有抽奖次数哦，快去完成任务获得次数吧~"}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com/?imm=1\">爆米花商店</a>兑换礼包、激活码、实物周边等好礼，赶紧前往爆米花商店了解详情吧！<br>", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com/?imm=1\">爆米花商店</a>兑换礼包、激活码、实物周边等好礼，赶紧前往爆米花商店了解详情吧！<br>", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com/?imm=1\">爆米花商店</a>兑换礼包、激活码、实物周边等好礼，赶紧前往爆米花商店了解详情吧！<br>", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com/?imm=1\">爆米花商店</a>兑换礼包、激活码、实物周边等好礼，赶紧前往爆米花商店了解详情吧！<br>", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com/?imm=1\">爆米花商店</a>兑换礼包、激活码、实物周边等好礼，赶紧前往爆米花商店了解详情吧！<br>", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com/?imm=1\">爆米花商店</a>兑换礼包、激活码、实物周边等好礼，赶紧前往爆米花商店了解详情吧！<br>", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com/?imm=1\">爆米花商店</a>兑换礼包、激活码、实物周边等好礼，赶紧前往爆米花商店了解详情吧！<br>", "type": "bmh", "draw_num": 0}
+{"key": "102", "info": "对不起，该活动已经结束。"}
+{"key": "102", "info": "对不起，该活动已经结束。"}
+{"key": "102", "info": "对不起，该活动已经结束。"}
+{"key": "102", "info": "对不起，该活动已经结束。"}
+{"key": "102", "info": "对不起，该活动已经结束。"}
+{"key": "102", "info": "对不起，该活动已经结束。"}
+{"key": "102", "info": "对不起，该活动已经结束。"}
+{"key": "ok", "id": 315, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "no_cjnum", "info": "你还没有抽奖次数哦，快去完成任务获得次数吧~"}
+{"key": "ok", "id": 315, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "no_cjnum", "info": "你还没有抽奖次数哦，快去完成任务获得次数吧~"}
+{"key": "ok", "id": 315, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "no_cjnum", "info": "你还没有抽奖次数哦，快去完成任务获得次数吧~"}
+{"key": "ok", "id": 0, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 270, "name": "午餐肉罐头礼包", "code": "msyac7rq4m", "pwd": null, "tips": "1、礼包内含：午餐肉罐头*1；<br>\r\n2、使用方式：游戏内-设置-底部兑换码-使用兑换码；<br>\r\n3、<span class=\"cl02\">礼包有效期截止至10月31日</span>，礼包码官包通用，同类型礼包码仅可兑换一次，重复兑换无效！", "type": "code", "bind": null, "draw_num": 1, "game_no_state": 0, "authentication": 1, "prize_authentication": "0"}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 315, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "no_cjnum", "info": "你还没有抽奖次数哦，快去完成任务获得次数吧~"}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl01\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl01\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl01\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl01\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl01\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl01\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl01\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl01\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 135, "name": "启程补给袋·紫*1", "code": null, "pwd": null, "tips": "道具礼包码将在游戏正式上线后，通过快爆小铃铛通知的形式通知发放；<br>\r\n届时可在<a class=\"cl02\" href=\"https://huodong3.3839.com/n/hykb/myprize/index.php?imm=1\">快爆获奖信息查询页面</a>中查看进度！", "type": "bind", "bind": {"is_bind": 0, "has": 1, "name": "QQ", "content": "<div class=\"mp-bind-area\"><div class=\"label\" onclick=\"ACT.toActivityWaps('https://huodong3.3839.com/n/hykb/bangding/?imm=1&t=104&hdid=600&s=1','');return false;\"><span class=\"it\">QQ</span><span class=\"val cl01\">1917512206</span></div></div>", "url": "https://huodong3.3839.com/n/hykb/bangding/?imm=1&t=104&hdid=600&s=1", "bind_id": "1", "check": "0"}, "draw_num": 0, "game_no_state": 0, "authentication": 1, "prize_authentication": "0"}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl01\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 225, "name": "启程补给袋·蓝*1", "code": null, "pwd": null, "tips": "道具礼包码将在游戏正式上线后，通过快爆小铃铛通知的形式通知发放；<br>\r\n届时可在<a class=\"cl02\" href=\"https://huodong3.3839.com/n/hykb/myprize/index.php?imm=1\">快爆获奖信息查询页面</a>中查看进度！", "type": "bind", "bind": {"is_bind": 0, "has": 1, "name": "QQ", "content": "<div class=\"mp-bind-area\"><div class=\"label\" onclick=\"ACT.toActivityWaps('https://huodong3.3839.com/n/hykb/bangding/?imm=1&t=104&hdid=600&s=1','');return false;\"><span class=\"it\">QQ</span><span class=\"val cl01\">1917512206</span></div></div>", "url": "https://huodong3.3839.com/n/hykb/bangding/?imm=1&t=104&hdid=600&s=1", "bind_id": "1", "check": "0"}, "draw_num": 0, "game_no_state": 0, "authentication": 1, "prize_authentication": "0"}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl01\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 180, "name": "环金*5000", "code": null, "pwd": null, "tips": "道具礼包码将在游戏正式上线后，通过快爆小铃铛通知的形式通知发放；<br>\r\n届时可在<a class=\"cl02\" href=\"https://huodong3.3839.com/n/hykb/myprize/index.php?imm=1\">快爆获奖信息查询页面</a>中查看进度！", "type": "bind", "bind": {"is_bind": 0, "has": 1, "name": "QQ", "content": "<div class=\"mp-bind-area\"><div class=\"label\" onclick=\"ACT.toActivityWaps('https://huodong3.3839.com/n/hykb/bangding/?imm=1&t=104&hdid=600&s=1','');return false;\"><span class=\"it\">QQ</span><span class=\"val cl01\">1917512206</span></div></div>", "url": "https://huodong3.3839.com/n/hykb/bangding/?imm=1&t=104&hdid=600&s=1", "bind_id": "1", "check": "0"}, "draw_num": 0, "game_no_state": 0, "authentication": 1, "prize_authentication": "0"}
+{"key": "ok", "id": 0, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl01\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl01\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl01\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 270, "name": "染色礼盒*1", "code": null, "pwd": null, "tips": "道具礼包码将在游戏正式上线后，通过快爆小铃铛通知的形式通知发放；<br>\r\n届时可在<a class=\"cl02\" href=\"https://huodong3.3839.com/n/hykb/myprize/index.php?imm=1\">快爆获奖信息查询页面</a>中查看进度！", "type": "bind", "bind": {"is_bind": 0, "has": 1, "name": "QQ", "content": "<div class=\"mp-bind-area\"><div class=\"label\" onclick=\"ACT.toActivityWaps('https://huodong3.3839.com/n/hykb/bangding/?imm=1&t=104&hdid=600&s=1','');return false;\"><span class=\"it\">QQ</span><span class=\"val cl01\">1917512206</span></div></div>", "url": "https://huodong3.3839.com/n/hykb/bangding/?imm=1&t=104&hdid=600&s=1", "bind_id": "1", "check": "0"}, "draw_num": 0, "game_no_state": 0, "authentication": 1, "prize_authentication": "0"}
+{"key": "102", "info": "对不起，该活动已经结束。"}
+{"key": "102", "info": "对不起，该活动已经结束。"}
+{"key": "102", "info": "对不起，该活动已经结束。"}
+{"key": "102", "info": "对不起，该活动已经结束。"}
+{"key": "102", "info": "对不起，该活动已经结束。"}
+{"key": "102", "info": "对不起，该活动已经结束。"}
+{"key": "102", "info": "对不起，该活动已经结束。"}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl01\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧！", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl01\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧！", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl01\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧！", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl01\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧！", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl01\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧！", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl01\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧！", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl01\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧！", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl01\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧！", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 315, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 315, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 315, "name": "全皮肤自选宝箱\"1", "code": "3dkvjetjs8s7222yg", "pwd": null, "tips": "1、礼包内含：<span class=\"cl02\">全皮肤自选宝箱\"1，以兑换码形式实时发放</span>；<br>\r\n2、使用方法：进入游戏前往主城—点击左上角头像—基础资料—用户昵称右侧小齿轮—兑换码 ；<br>\r\n3、<span class=\"cl02\">礼包有效期截止至：2025年6月30日23点59分</span>，本活动礼包码全渠道通用，获得后请尽快使用，以免逾期礼包码失效！", "type": "code", "bind": null, "draw_num": 0, "game_no_state": 0, "authentication": 1, "prize_authentication": "0"}
+{"key": "ok", "id": 0, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 225, "name": "钻石*10、纯真丝线*30", "code": "nAFCheQv39Nn", "pwd": null, "tips": "1、使用方式：进入无限暖暖游戏->点击打开左上角美鸭梨->点击下方的设置按钮->点击其他->兑换码->输入兑换（美鸭梨功能将在花愿镇搭配师协会获得美鸭梨后开启）；<br>\r\n2、<span class=\"cl02\">礼包有效期截止至2026年6月4日</span>，本活动礼包码全渠道使用，同类型礼包码仅可兑换一次，重复兑换无效！", "type": "code", "bind": null, "draw_num": 1, "game_no_state": 0, "authentication": 1, "prize_authentication": "0"}
+{"key": "ok", "id": 45, "name": "闪亮泡泡*50、纯真丝线*50、噗灵*20000", "code": "nAFAjfQUPEJY", "pwd": null, "tips": "1、使用方式：进入无限暖暖游戏->点击打开左上角美鸭梨->点击下方的设置按钮->点击其他->兑换码->输入兑换（美鸭梨功能将在花愿镇搭配师协会获得美鸭梨后开启）；<br>\r\n2、<span class=\"cl02\">礼包有效期截止至2026年6月4日</span>，本活动礼包码全渠道使用，同类型礼包码仅可兑换一次，重复兑换无效！", "type": "code", "bind": null, "draw_num": 1, "game_no_state": 0, "authentication": 1, "prize_authentication": "0"}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "no_cjnum", "info": "你还没有抽奖次数哦，快去完成任务获得次数吧~"}
+{"key": "ok", "id": 315, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com/?imm=1\">爆米花商店</a>兑换礼包，赶紧前往爆米花商店了解详情吧！", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com/?imm=1\">爆米花商店</a>兑换礼包，赶紧前往爆米花商店了解详情吧！", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com/?imm=1\">爆米花商店</a>兑换礼包，赶紧前往爆米花商店了解详情吧！", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com/?imm=1\">爆米花商店</a>兑换礼包，赶紧前往爆米花商店了解详情吧！", "type": "bmh", "draw_num": 0}
+{"key": "no_cjnum", "info": "你还没有抽奖次数哦，快去完成任务获得次数吧~"}
+{"key": "ok", "id": 315, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com/?imm=1\">爆米花商店</a>兑换礼包，赶紧前往爆米花商店了解详情吧！", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com/?imm=1\">爆米花商店</a>兑换礼包，赶紧前往爆米花商店了解详情吧！", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com/?imm=1\">爆米花商店</a>兑换礼包，赶紧前往爆米花商店了解详情吧！", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com/?imm=1\">爆米花商店</a>兑换礼包，赶紧前往爆米花商店了解详情吧！", "type": "bmh", "draw_num": 0}
+{"key": "102", "info": "对不起，该活动已经结束。"}
+{"key": "102", "info": "对不起，该活动已经结束。"}
+{"key": "102", "info": "对不起，该活动已经结束。"}
+{"key": "102", "info": "对不起，该活动已经结束。"}
+{"key": "102", "info": "对不起，该活动已经结束。"}
+{"key": "102", "info": "对不起，该活动已经结束。"}
+{"key": "102", "info": "对不起，该活动已经结束。"}
+{"key": "102", "info": "对不起，该活动已经结束。"}
+{"key": "102", "info": "对不起，该活动已经结束。"}
+{"key": "102", "info": "对不起，该活动已经结束。"}
+{"key": "102", "info": "对不起，该活动已经结束。"}
+{"key": "102", "info": "对不起，该活动已经结束。"}
+{"key": "ok", "id": 0, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 225, "name": "100古币", "code": "fcaycdm7nc", "pwd": null, "tips": "1、使用方式：游戏大厅-设置-礼包码-礼包兑换；<br>\r\n2、<span class=\"cl02\">有效期截止至12月31日</span>(使用渠道：安卓限定)，同类型礼包码仅可兑换一次，重复兑换无效！", "type": "code", "bind": null, "draw_num": 1, "game_no_state": 0, "authentication": 1, "prize_authentication": "0"}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 90, "name": "50幻丝", "code": "wdarxkj8kp", "pwd": null, "tips": "1、使用方式：游戏大厅-设置-礼包码-礼包兑换；<br>\r\n2、<span class=\"cl02\">有效期截止至12月31日</span>(使用渠道：安卓限定)，同类型礼包码仅可兑换一次，重复兑换无效！", "type": "code", "bind": null, "draw_num": 1, "game_no_state": 0, "authentication": 1, "prize_authentication": "0"}
+{"key": "ok", "id": 0, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 180, "name": "乐园礼包", "code": "FHTQ3VFJREQ", "pwd": null, "tips": "1、礼包内含：微尘*15000、利齿子儿*15000<br>\r\n2、礼包有效期：6月26日23:59，兑换方式：通关章节1-4后-主界面左下角-缩略页-设置-账户-兑换码领取礼包，同账号仅可兑换一次同类型礼包，全渠道通用", "type": "code", "bind": null, "draw_num": 1, "game_no_state": 0, "authentication": 1, "prize_authentication": "0"}
+{"key": "ok", "id": 315, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 315, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 315, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 315, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 315, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 315, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 315, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 225, "name": "造化*50", "code": "IMZEHSUYHDXKBLW", "pwd": null, "tips": "1、礼包码使用方式： 点击云游界面左上角的头像，随后点击“兑换”按钮，输入礼包码后即可兑换；<br>\r\n2、<span class=\"cl02\">礼包有效期截止至2025年12月31日</span>，本活动礼包码全渠道使用，同类型礼包码仅可兑换一次，重复兑换无效！", "type": "code", "bind": null, "draw_num": 1, "game_no_state": 0, "authentication": 1, "prize_authentication": "0"}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 300, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 300, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 300, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 300, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 300, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 300, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 300, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 300, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "no_cjnum", "info": "你还没有抽奖次数哦，快去完成任务获得次数吧~"}
+{"key": "ok", "id": 315, "name": "爆米花 *4", "tips": "1、爆米花是快爆内的重要道具，可以用于在<a class=\"cl01\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换<b>崩坏：星穹铁道</b>礼包，赶紧前往爆米花商店了解详情吧！<br>\r\n2、累计签到还有<span class=\"cl02\">大月卡·无名客的荣勋、月卡·列车补给凭证、1000星琼、信用点x8888、漫游指南x2</span>等你来拿哟~<br>", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花 *4", "tips": "1、爆米花是快爆内的重要道具，可以用于在<a class=\"cl01\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换<b>崩坏：星穹铁道</b>礼包，赶紧前往爆米花商店了解详情吧！<br>\r\n2、累计签到还有<span class=\"cl02\">大月卡·无名客的荣勋、月卡·列车补给凭证、1000星琼、信用点x8888、漫游指南x2</span>等你来拿哟~<br>", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花 *1", "tips": "1、爆米花是快爆内的重要道具，可以用于在<a class=\"cl01\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换<b>崩坏：星穹铁道</b>礼包，赶紧前往爆米花商店了解详情吧！<br>\r\n2、累计签到还有<span class=\"cl02\">大月卡·无名客的荣勋、月卡·列车补给凭证、1000星琼、信用点x8888、漫游指南x2</span>等你来拿哟~<br>", "type": "bmh", "draw_num": 0}
+{"key": "no_cjnum", "info": "你还没有抽奖次数哦，快去完成任务获得次数吧~"}
+{"key": "ok", "id": 315, "name": "爆米花 *4", "tips": "1、爆米花是快爆内的重要道具，可以用于在<a class=\"cl01\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换<b>崩坏：星穹铁道</b>礼包，赶紧前往爆米花商店了解详情吧！<br>\r\n2、累计签到还有<span class=\"cl02\">大月卡·无名客的荣勋、月卡·列车补给凭证、1000星琼、信用点x8888、漫游指南x2</span>等你来拿哟~<br>", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花 *5", "tips": "1、爆米花是快爆内的重要道具，可以用于在<a class=\"cl01\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换<b>崩坏：星穹铁道</b>礼包，赶紧前往爆米花商店了解详情吧！<br>\r\n2、累计签到还有<span class=\"cl02\">大月卡·无名客的荣勋、月卡·列车补给凭证、1000星琼、信用点x8888、漫游指南x2</span>等你来拿哟~<br>", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花 *2", "tips": "1、爆米花是快爆内的重要道具，可以用于在<a class=\"cl01\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换<b>崩坏：星穹铁道</b>礼包，赶紧前往爆米花商店了解详情吧！<br>\r\n2、累计签到还有<span class=\"cl02\">大月卡·无名客的荣勋、月卡·列车补给凭证、1000星琼、信用点x8888、漫游指南x2</span>等你来拿哟~<br>", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花 *2", "tips": "1、爆米花是快爆内的重要道具，可以用于在<a class=\"cl01\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换<b>崩坏：星穹铁道</b>礼包，赶紧前往爆米花商店了解详情吧！<br>\r\n2、累计签到还有<span class=\"cl02\">大月卡·无名客的荣勋、月卡·列车补给凭证、1000星琼、信用点x8888、漫游指南x2</span>等你来拿哟~<br>", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花 *4", "tips": "1、爆米花是快爆内的重要道具，可以用于在<a class=\"cl01\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换<b>崩坏：星穹铁道</b>礼包，赶紧前往爆米花商店了解详情吧！<br>\r\n2、累计签到还有<span class=\"cl02\">大月卡·无名客的荣勋、月卡·列车补给凭证、1000星琼、信用点x8888、漫游指南x2</span>等你来拿哟~<br>", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 315, "name": "爆米花 *5", "tips": "1、爆米花是快爆内的重要道具，可以用于在<a class=\"cl01\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换<b>崩坏：星穹铁道</b>礼包，赶紧前往爆米花商店了解详情吧！<br>\r\n2、累计签到还有<span class=\"cl02\">大月卡·无名客的荣勋、月卡·列车补给凭证、1000星琼、信用点x8888、漫游指南x2</span>等你来拿哟~<br>", "type": "bmh", "draw_num": 0}
+今日已领取，comm_id=625,Task_id=2576
+今日已领取，comm_id=625,Task_id=2564
+{"key": "ok", "id": 315, "name": "爆米花 *1", "tips": "1、爆米花是快爆内的重要道具，可以用于在<a class=\"cl01\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换<b>崩坏：星穹铁道</b>礼包，赶紧前往爆米花商店了解详情吧！<br>\r\n2、累计签到还有<span class=\"cl02\">大月卡·无名客的荣勋、月卡·列车补给凭证、1000星琼、信用点x8888、漫游指南x2</span>等你来拿哟~<br>", "type": "bmh", "draw_num": 0}
+今日已领取，comm_id=625,Task_id=2562
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 315, "name": "火之碎晶*28", "code": "DJ79VWhp0D26XNP42K", "pwd": null, "tips": "※<span class=\"cl02\">本次活动中的火之碎晶礼包，如你已在其他平台活动中获取兑换同类型礼包，则无法进行重复兑换！</span><br>\r\n1、礼包内含：<span class=\"cl02\">火之碎晶*28，以cdk兑换码形式实时发放</span>；<br>\r\n2、使用方法：游戏正式上线后在游戏内使用cdk兑换码进行兑换；<br>\r\n3、礼包有效期截止至：<span class=\"cl02\">游戏上线后30天内</span>，获得后请在游戏上线后尽快使用，以免逾期导致礼包码失效！", "type": "code", "bind": null, "draw_num": 0, "game_no_state": 0, "authentication": 1, "prize_authentication": "0"}
+{"key": "ok", "id": 180, "name": "黄金烟花棒*10", "code": "DJKkpvDH0UGEGURV6M", "pwd": null, "tips": "※<span class=\"cl02\">本次活动中的黄金烟花棒礼包，如你已在其他平台活动中获取兑换同类型礼包，则无法进行重复兑换！</span><br>\r\n1、礼包内含：<span class=\"cl02\">黄金烟花棒*10，以cdk兑换码形式实时发放</span>；<br>\r\n2、使用方法：游戏正式上线后在游戏内使用cdk兑换码进行兑换；<br>\r\n3、礼包有效期截止至：<span class=\"cl02\">游戏上线后30天内</span>，获得后请在游戏上线后尽快使用，以免逾期导致礼包码失效！", "type": "code", "bind": null, "draw_num": 0, "game_no_state": 0, "authentication": 1, "prize_authentication": "0"}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 45, "name": "通用石礼包（通用改造石*10、金币*888）", "code": "mckawfg6pgxi6f", "pwd": null, "tips": "1、礼包内容：<span class=\"cl02\">通用改造石*10、金币*888</span>；<br>\r\n2、领取说明：单用户仅可使用一次礼包码，且仅可在好游快爆下载包体中使用；<br>\r\n3、兑换方式：进入游戏-右上角进入设置-点击兑换码-领取礼包；<br>\r\n4、兑换码有效期：<span class=\"cl02\">5月22日-7月31日</span>；", "type": "code", "bind": null, "draw_num": 1, "game_no_state": 0, "authentication": 1, "prize_authentication": "0"}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*1", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 0}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*4", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*3", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*2", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}
+{"key": "ok", "id": 0, "name": "爆米花*5", "tips": "爆米花是快爆内的重要道具，可以用于在<a class=\"cl02\" href=\"https://shop.3839.com?imm=1\">爆米花商店</a>兑换游戏礼包、测试激活码、点券皮肤等，赶紧前往爆米花商店了解详情吧。", "type": "bmh", "draw_num": 1}

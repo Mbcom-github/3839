@@ -7,24 +7,32 @@ Task_Type_List: ['getTaskPrize','getLuckyPrize','completeTask','getThreeTasklist
 #type_18 :开启快爆通知权限 completeTask upGameTask
 #type_11 :体验《崩坏：星穹铁道》云玩 completeTask upGameTask
 
+#url为空
+#‘RereadPlant’检查生长状况
+
 #url为daily
 daily:
-#‘CheckGrowStatus’检查生长状况
+
 #分享奖励
-  DailyShare: ['DailyShare', 'DailyShareCallback', 'DailyShareLing']
+  DailyApp: ['DailyApp']
+  DailyGameCateJump: ['DailyGameCateJumps']
+  DailyShare: ['DailyShare', 'DailyShareCallback']
   #预约奖励需先预约
-  DailyYuyueLing: ['DailyGameDetail', 'DailyYuyueLing']
+  DailyYuyueLing: ['DailyYuyueLing']
   #先用第二个获取答案再进行回答，回答时请求体需加入‘option’，其值为中文答案
-  DailyDati: ['DailyDati', 'DailyDatiAnswer', 'DailyDatiAnswer', 'DailyDatiLing']
-  DailyToH5Url: ['DailyToH5Url', 'DailyToH5UrlLing']
-  DailyGameDown: ['DailyGamePlay', 'DailyDownGameCheck', 'DailyDownGameLing']
+  DailyDati: ['DailyDati', 'DailyDatiAnswer', 'DailyDatiAnswer']
+  DailyToH5Url: ['DailyToH5Url']
+  DailyDownGameLing: ['DailyGamePlay', 'DailyDownGameCheck']
+  DailySmallGame: ['DailySmallGame'] 
+  DailyLing: ['DailyShareLing', 'DailyDatiLing', 'DailyToH5UrlLing', 'DailyDownGameLing', 'DailySmallGameLing','DailyGameCateLing']
 
 #url为ycx
 ycx:
-  YcxDownGameLing: ['YcxGamePlay', 'YcxDownGameCheck', 'YcxDownGameLing']
-  YcxToH5Url: ['YcxToH5Url', 'YcxToH5UrlLing', ]
+  YcxDownGameLing: ['YcxGamePlay', 'YcxDownGameCheck']
+  YcxToH5Url: ['YcxToH5Url']
   #等待五分钟
-  DailySmallGame: ['DailySmallGame', 'DailySmallGameLing'] 
+
+  YcxLing:  ['YcxToH5UrlLing', 'YcxDownGameLing']
 
 #url为plant
 plant: ['plant', 'Harvest']

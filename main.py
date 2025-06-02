@@ -2,8 +2,6 @@ import yaml
 import requests
 import json
 import re
-import os
-import time
 
 #post任务请求主函数
 def Post_Activity(url, Task_Complete_Type, comm_id, Task_id, user):
@@ -161,7 +159,13 @@ def obtain_daily_list():
     pattern = r'<div class="task-prize">(.*?)<div class="task-info">'
     blocks = re.findall(pattern, html, re.DOTALL)
 
-    result = []
+    result = [{
+        "Task_Type": 'DailyApp',
+        "Task_Id": 5
+    },{
+        "Task_Type": "DailyGameCateJump",
+        "Task_Id": 6
+    }]
 
     for block in blocks:
         # 提取第一个 onclick 属性
@@ -188,18 +192,9 @@ def obtain_daily_list():
         }
         
         # 特殊处理 DailyYuyueLing 类型
-        if task_type == "DailyYuyueLing":
-            # 向前搜索第一个 data-game_id
-            game_id_match = re.search(r'data-game_id\s*=\s*"(\d+)"', block[:onclick_match.start()])
-            
-            if game_id_match:
-                task_data["Game_Id"] = game_id_match.group(1)
-            else:
-                # 如果在前半部分没找到，搜索整个块
-                game_id_match = re.search(r'data-game_id\s*=\s*"(\d+)"', block)
-                if game_id_match:
-                    task_data["Game_Id"] = game_id_match.group(1)
-        
+        if task_type == "DailyYuyueLing" or task_type == 'YcxYuyueLing':
+            continue
+
         result.append(task_data)
 
     return result
@@ -229,16 +224,19 @@ def Post_Daily(Task_Type, id , user) :
     while_num = 0
 
     #if Url_Type == 'daily' :
-    while while_num < len(conf[Task_Type]) :
-        ac = conf[Task_Type][while_num]
+    while_object_num = len(conf[Url_Type][Task_Type]) - 1
+    while while_num < len(conf[Url_Type][Task_Type]) :
+        ac = conf[Url_Type][Task_Type][while_num]
 
         payload['ac'] = ac
 
-        response = json.loads(requests.post(Url, payload, headers))
+        response = json.loads(requests.post(Url, payload, headers).text)
 
         if ac == 'DailyDati' and while_num == 2:
             option = response['back_answer']
             payload['option'] = option
+
+        while_num += 1
 
     return response
 

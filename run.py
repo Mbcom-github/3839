@@ -1,4 +1,6 @@
 from main import *
+import os
+import time
 
 url = 'https://act.3839.com/n/hykb/universal/ajax.php'
 

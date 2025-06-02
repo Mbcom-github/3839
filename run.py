@@ -49,7 +49,7 @@ while num <= conf['device_num'] :
 
             tasktype = y['type']
 
-            result = post(url, tasktype, comm_id, Task_id, user)
+            result = Post_Activity(url, tasktype, comm_id, Task_id, user)
 
             result_log = {
                 'Task_id': Task_id

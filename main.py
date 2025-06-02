@@ -6,7 +6,7 @@ import os
 import time
 
 #post任务请求主函数
-def post(url, Task_Complete_Type, comm_id, Task_id, user):
+def Post_Activity(url, Task_Complete_Type, comm_id, Task_id, user):
     #url为目的链接，ac为执行类型，comm_id为任务id
     #该list变量容纳待执行的任务类型
     ac_list = ["completeTask"]
@@ -205,12 +205,17 @@ def obtain_daily_list():
     return result
 
 #
-def Post_Daily(Url_Type, ac, id , user) :
-    
-    url = 'https://huodong3.3839.com/n/hykb/cornfarm/ajax_' + Url_Type + '.php'
+def Post_Daily(Task_Type, id , user) :
+    if 'Daily' in Task_Type : 
+        Url_Type = 'daily'
+    elif 'Ycx' in Task_Type :
+        Url_Type = 'ycx'
+    else :
+        Url_Type = 'plant'
+
+    Url = 'https://huodong3.3839.com/n/hykb/cornfarm/ajax_' + Url_Type + '.php'
 
     payload = {
-        'ac' : ac ,
         'id' : id ,
         'scookie': user['scookie'],
         'device': user['device']
@@ -224,11 +229,16 @@ def Post_Daily(Url_Type, ac, id , user) :
     while_num = 0
 
     #if Url_Type == 'daily' :
-    while while_num < len(conf[ac]) :
-        if ac == 'DailyDati' :
-        #payload['option'] = option
+    while while_num < len(conf[Task_Type]) :
+        ac = conf[Task_Type][while_num]
 
-        response = json.loads(requests.post(url, payload, headers))
+        payload['ac'] = ac
+
+        response = json.loads(requests.post(Url, payload, headers))
+
+        if ac == 'DailyDati' and while_num == 2:
+            option = response['back_answer']
+            payload['option'] = option
 
     return response
 

@@ -284,6 +284,7 @@ def Exchange_Base_Post(id, Exchange_Type, user):
 
     return response
 
+#兑换种子函数
 def Exchange_Seed():
     for i in conf['exchange']:
         if i == 'share':
@@ -292,93 +293,181 @@ def Exchange_Seed():
 
 #每日获取爆米花主函数
 def Daily_Complete(Daily_List, user):
-
+    #定义玉米增加量变量
     Add_Corn_num = 0
-
+    #定义爆米花增加量变量
     Add_Popcorn_num = 0
 
+    #获取每日兑换分享的奖励，共3次
     for i in range(3):
-
+        #进行post请求
         response = Exchange_Base_Post(8220, 'share', user)
-
+        #如果获取成功
         if response['code'] == 200 :
+            #追加
             Add_Corn_num += 2
+        #反之
         else :
+            #推出循环
             break
 
-    response = Daily_Base_Post('', 'RereadPlant', '', user, 0, 1)
+    #收获
+    response = Daily_Base_Post('plant', 'Harvest', '', user, 0, 1)
 
-    if int(response['chengshoudu']) == 100 :
-        Daily_Base_Post('plant', 'Harvest', '', user, 0, 1)
-
-        Exchange_Seed()
-
+    #如果收获成功
+    if response.get('key') == 'ok' and response.get('key'):
+        #种植
         response = Daily_Base_Post('plant', 'plant', '', user, 0, 1)
-        
-        Add_Corn = response['add_corn']
+        #兑换种子
+        Exchange_Seed()
+        #追加玉米增加量
+        Add_Corn_num += int(response['add_corn'])
+    #如果未种植
+    elif str(response.get('key')) != "503":
+        #种植
+        response = Daily_Base_Post('plant', 'plant', '', user, 0, 1)
 
-        Add_Corn_num += Add_Corn
-
+    #每日浇水
     response = Daily_Base_Post('sign', 'Sign', '', user, 0, 1)
 
+    #如果浇水成功
     if response.get('key') == 'ok' :
-
+        #追加爆米花增加量
         Add_Popcorn_num += response.get('add_baomihua')
 
+    #遍历每日任务列表来完成任务
     for i in Daily_List:
-
+        #获取任务类别
         Task_Type = i['Task_Type']
-
+        #获取任务id
         Id = i['Task_Id']
-
+        #获取Url类别
         Url_Type = i['Task_Url_Type']
-
+        #获取循环次数
         while_object_num = len(conf[Url_Type][Task_Type]) - 1
-
+        #完成任务
         Daily_Base_Post(Url_Type, Task_Type, Id, user, 0, while_object_num)
 
+    #等待部分计时任务，这破hykb，任务是真计时啊，还tm是服务器计时
     time.sleep(300)
 
+    #遍历每日任务列表来获取任务奖励
     for i in Daily_List:
+        #获取任务类别
         Task_Type = i['Task_Type']
-
+        #获取任务id
         Id = i['Task_Id']
-
+        #获取Url类别
         Url_Type = i['Task_Url_Type']
-
+        #获取循环次数
         while_object_num = len(conf[Url_Type][Task_Type])
-
+        #设定初始循环变量
         while_num = while_object_num - 1
-
+        #获取植物成熟度
         response = Daily_Base_Post('', 'RereadPlant', Id, user, 0, 1)
-
+        #赋值给变量
         Maturity = int(response['chengshoudu'])
 
+        #如果成熟
         if Maturity == 100 :
+            #收获
             Daily_Base_Post('plant', 'Harvest', '', user, 0, 1)
-
+            #购买种子
             Exchange_Seed()
-
+            #种植
             response = Daily_Base_Post('plant', 'plant', '', user, 0, 1)
-
-            Add_Corn = response['add_corn']
-
-            Add_Corn_num += Add_Corn
-
+            #追加玉米增加量
+            Add_Corn_num += response['add_corn']
+        #如果未成熟
         else :
+            #获取任务奖励
             response = Daily_Base_Post(Url_Type, Task_Type, Id, user, while_num, while_object_num)
-
+            #获取爆米花增加量
             Add_Popcorn = response.get('reward_bmh_num')
-
+            #如果奖励有爆米花
             if Add_Popcorn_num :
+                #则追加爆米花增加量
                 Add_Popcorn_num += Add_Popcorn
-    
+            
+    #处理日志格式
     log = {
         'Add_Popcorn_num': Add_Popcorn_num,
         'Add_Corn_num': Add_Corn_num 
     }
-    
+    #返回结果
     return log
+
+#每日活动完成主函数
+def Activities_Complete(user):
+    #Post目标链接
+    url = 'https://act.3839.com/n/hykb/universal/ajax.php'
+    #获取结果过滤列表
+    Info_List = conf['Info_List']
+    #定义‘爆米花’获取数量的变量
+    Popcorn_Current_Num = 0
+    #定义传出结果变量
+    result = []
+
+    #遍历出所有的活动
+    for i in Task_Ids_List:
+        #获取comm_id
+        comm_id = i['comm_id']
+        #定义单个活动的日志
+        current_log = {'Comm_id': comm_id, 'log': []}
+
+        #遍历出在当前活动中的所有任务
+        for y in i['ac_ids_list']:
+            #获取任务id
+            Task_id = y['task_id']
+            #获取任务类别
+            tasktype = y['type']   
+            #完成单个活动中的单个任务
+            result = Post_Activity(url, tasktype, comm_id, Task_id, user)
+            #定义该任务日志
+            result_log = {
+                'Task_id': Task_id
+            }
+            #判断该任务执行结果
+            #如果不为成功
+
+            if str(result['key']) != 'ok' :
+                #如果输出非奖品且非爆米花
+                if str(result['name']) in Info_List:
+                    #结束单词循环
+                    continue
+                #反之
+                else :
+                    #处理结果
+                    result_log['info'] = result['info']
+                    #追加日志
+                    current_log['log'].append(result_log)
+            #如果结果为非爆米花且为奖品
+            elif str(result.get('code')) != '0' and result.get('code') is not None:
+                #处理日志
+                result_log['info'] = result['name']
+                result_log['code'] = result['code']
+                #追加日志
+                current_log['log'].append(result_log)
+            #排除完即为爆米花
+            else :
+                #处理日志
+                result_log['info'] = result['name']
+                #提取爆米花数额
+                Popcorn_num = re.search(r'\d+$', result['name']).group()
+                #追加爆米花数额
+                Popcorn_Current_Num += int(Popcorn_num)
+
+        #追加该次活动的日志
+        result.append(current_log)
+
+    #整理日志
+    response = {
+        'Popcorn_Current_Num': Popcorn_Current_Num,
+        'result': result
+    }
+    
+    #返回日志
+    return response
 
 #读取总配置文件
 with open('./conf/config.yaml', 'r', encoding='utf-8') as f:

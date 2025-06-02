@@ -1,5 +1,7 @@
 #任务执行类型
 Task_Type_List: ['getTaskPrize','getLuckyPrize','completeTask','getThreeTasklist','getAllTasklist','upGameTask','share']
+#过滤关键词
+Info_List: ['谢谢参与', '已领取过奖励', '你还没有抽奖次数哦，快去完成任务获得次数吧~']
 
 #type_1 :邀请新用户体验《崩坏：星穹铁道》云玩 completeTask share
 #type_3 :每日体验《崩坏：星穹铁道》 completeTask 

@@ -1,5 +1,4 @@
-import json
-import requests
+from main import *
 
 #daily 每日必做
 #ycx 更多必做
@@ -7,7 +6,9 @@ import requests
 #sign 每日登录
 
 Url_Type_List = ['daily', 'ycx', 'plant', 'sign']
-
+Task_Type = 'DailyShare'
+id = 2468
+Post_Daily(Task_Type, id, user)
 
 
 

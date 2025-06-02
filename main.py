@@ -228,7 +228,7 @@ def Post_Daily(Url_Type, ac, id , user) :
         if ac == 'DailyDati' :
         #payload['option'] = option
 
-            response = json.loads(requests.post(url, payload, headers))
+        response = json.loads(requests.post(url, payload, headers))
 
     return response
 

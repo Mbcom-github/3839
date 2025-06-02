@@ -1,6 +1,7 @@
 from main import *
-import os
-import time
+
+with open('./conf/Daily_List.json', 'r', encoding='utf-8') as f:
+    Daily_List = json.load(f)
 
 url = 'https://act.3839.com/n/hykb/universal/ajax.php'
 
@@ -75,6 +76,10 @@ while num <= conf['device_num'] :
     log['Get_bmh_num'] = baomihua
     
     user['Log_List'].append(Log_File_Name)
+
+    response = Daily_Complete(Daily_List, user)
+
+    log['daily'] = response
 
     with open(User_Path, 'w', encoding='utf-8') as f:
         yaml.safe_dump(user, f)

@@ -1,118 +1,137 @@
 [
     {
         "Task_Type": "DailyApp",
-        "Task_Id": 5
+        "Task_Id": 5,
+        "Task_Url_Type": "daily"
     },
     {
         "Task_Type": "DailyGameCateJump",
-        "Task_Id": 6
+        "Task_Id": 6,
+        "Task_Url_Type": "daily"
     },
     {
         "Task_Type": "DailyShare",
-        "Task_Id": "2468"
+        "Task_Id": "2468",
+        "Task_Url_Type": "daily"
     },
     {
         "Task_Type": "DailyShare",
-        "Task_Id": "2469"
+        "Task_Id": "2469",
+        "Task_Url_Type": "daily"
     },
     {
         "Task_Type": "DailyDownGameLing",
-        "Task_Id": "2392"
+        "Task_Id": "2392",
+        "Task_Url_Type": "daily"
     },
     {
         "Task_Type": "DailyShare",
-        "Task_Id": "2475"
+        "Task_Id": "2475",
+        "Task_Url_Type": "daily"
     },
     {
         "Task_Type": "DailyDownGameLing",
-        "Task_Id": "2454"
+        "Task_Id": "2454",
+        "Task_Url_Type": "daily"
     },
     {
         "Task_Type": "DailyDownGameLing",
-        "Task_Id": "2450"
+        "Task_Id": "2450",
+        "Task_Url_Type": "daily"
     },
     {
         "Task_Type": "DailyShare",
-        "Task_Id": "1703"
+        "Task_Id": "1703",
+        "Task_Url_Type": "daily"
     },
     {
         "Task_Type": "DailyShare",
-        "Task_Id": "2472"
+        "Task_Id": "2472",
+        "Task_Url_Type": "daily"
     },
     {
         "Task_Type": "DailyDownGameLing",
-        "Task_Id": "2432"
+        "Task_Id": "2432",
+        "Task_Url_Type": "daily"
     },
     {
         "Task_Type": "DailyToH5Url",
-        "Task_Id": "1444"
+        "Task_Id": "1444",
+        "Task_Url_Type": "daily"
     },
     {
         "Task_Type": "DailyToH5Url",
-        "Task_Id": "1636"
+        "Task_Id": "1636",
+        "Task_Url_Type": "daily"
     },
     {
         "Task_Type": "DailyDati",
-        "Task_Id": "7"
+        "Task_Id": "7",
+        "Task_Url_Type": "daily"
     },
     {
         "Task_Type": "DailySmallGame",
-        "Task_Id": "1765"
+        "Task_Id": "1765",
+        "Task_Url_Type": "daily"
     },
     {
         "Task_Type": "DailySmallGame",
-        "Task_Id": "2471"
+        "Task_Id": "2471",
+        "Task_Url_Type": "daily"
     },
     {
         "Task_Type": "DailySmallGame",
-        "Task_Id": "1975"
+        "Task_Id": "1975",
+        "Task_Url_Type": "daily"
     },
     {
         "Task_Type": "DailySmallGame",
-        "Task_Id": "2438"
+        "Task_Id": "2438",
+        "Task_Url_Type": "daily"
     },
     {
         "Task_Type": "DailySmallGame",
-        "Task_Id": "2190"
+        "Task_Id": "2190",
+        "Task_Url_Type": "daily"
     },
     {
         "Task_Type": "DailySmallGame",
-        "Task_Id": "2037"
+        "Task_Id": "2037",
+        "Task_Url_Type": "daily"
     },
     {
         "Task_Type": "DailySmallGame",
-        "Task_Id": "1796"
+        "Task_Id": "1796",
+        "Task_Url_Type": "daily"
     },
     {
         "Task_Type": "DailyDownGameLing",
-        "Task_Id": "2285"
+        "Task_Id": "2285",
+        "Task_Url_Type": "daily"
     },
     {
         "Task_Type": "DailySmallGame",
-        "Task_Id": "2317"
+        "Task_Id": "2317",
+        "Task_Url_Type": "daily"
     },
     {
         "Task_Type": "YcxDownGameLing",
-        "Task_Id": "2445"
+        "Task_Id": "2445",
+        "Task_Url_Type": "ycx"
     },
     {
         "Task_Type": "YcxDownGameLing",
-        "Task_Id": "2333"
+        "Task_Id": "2333",
+        "Task_Url_Type": "ycx"
     },
     {
         "Task_Type": "YcxToH5Url",
-        "Task_Id": "887"
+        "Task_Id": "887",
+        "Task_Url_Type": "ycx"
     },
     {
         "Task_Type": "YcxToH5Url",
-        "Task_Id": "1727"
-    },
-    {
-        "Task_Type": "YcxToWeiboRemind",
-        "Task_Id": "687"
-    },
-    {
-        "Task_Type": "YcxToWechatRemind",
-        "Task_Id": "2027"
+        "Task_Id": "1727",
+        "Task_Url_Type": "ycx"
     }
 ]

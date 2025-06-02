@@ -2,6 +2,8 @@ import yaml
 import requests
 import json
 import re
+import time
+import os
 
 #post任务请求主函数
 def Post_Activity(url, Task_Complete_Type, comm_id, Task_id, user):
@@ -161,11 +163,15 @@ def obtain_daily_list():
 
     result = [{
         "Task_Type": 'DailyApp',
-        "Task_Id": 5
+        "Task_Id": 5,
+        "Task_Url_Type": 'daily'
     },{
         "Task_Type": "DailyGameCateJump",
-        "Task_Id": 6
+        "Task_Id": 6,
+        "Task_Url_Type": 'daily'
     }]
+
+    Skip_List = ["DailyYuyueLing", 'YcxYuyueLing', 'YcxToWeiboRemind', 'YcxToWechatRemind']
 
     for block in blocks:
         # 提取第一个 onclick 属性
@@ -190,25 +196,29 @@ def obtain_daily_list():
             "Task_Type": task_type,
             "Task_Id": task_id
         }
-        
-        # 特殊处理 DailyYuyueLing 类型
-        if task_type == "DailyYuyueLing" or task_type == 'YcxYuyueLing':
+
+        # 特殊处理
+        if task_type in Skip_List:
             continue
+
+        if 'Daily' in task_type:
+            task_data['Task_Url_Type'] = 'daily'
+        elif 'Ycx' in task_type:
+            task_data['Task_Url_Type'] = 'ycx'
 
         result.append(task_data)
 
     return result
 
-#
-def Post_Daily(Task_Type, id , user) :
-    if 'Daily' in Task_Type : 
-        Url_Type = 'daily'
-    elif 'Ycx' in Task_Type :
-        Url_Type = 'ycx'
-    else :
-        Url_Type = 'plant'
+#单个“每日必做”任务完成函数
+def Daily_Base_Post(Url_Type, Task_Type, id , user, while_num, while_object_num) :
+    Base_Url = 'https://huodong3.3839.com/n/hykb/cornfarm/ajax'
 
-    Url = 'https://huodong3.3839.com/n/hykb/cornfarm/ajax_' + Url_Type + '.php'
+    if Url_Type :
+        Base_Url += '_'
+    Url = Base_Url + Url_Type + '.php'
+
+    Url_Type_List = ['daily', 'ycx']
 
     payload = {
         'id' : id ,
@@ -216,29 +226,159 @@ def Post_Daily(Task_Type, id , user) :
         'device': user['device']
     }
 
+    headers = {
+        'User-Agent': user['User-Agent']
+    }
+    
+    while while_num < while_object_num :
+        if Url_Type in Url_Type_List:
+            ac = conf[Url_Type][Task_Type][while_num]
+        elif Url_Type == 'sign' and Task_Type == 'Sign':
+            ac = Task_Type
+
+            payload['smdeviceid'] = user['smdeviceid']
+
+            payload['verison'] = user['verison']
+
+            payload['OpenAutoSign'] = 'close'
+        else :
+            ac = Task_Type
+
+        payload['ac'] = ac 
+        
+        if ac == 'DailyDati' and while_num == 2:
+            option = response['back_answer']
+
+            payload['option'] = option
+
+        response = json.loads(requests.post(Url, payload, headers).text)
+
+        while_num += 1
+
+    return response
+
+#兑换商品基础函数
+def Exchange_Base_Post(id, Exchange_Type, user):
+    a = conf['exchange'][Exchange_Type]['a']
+
+    c = conf['exchange'][Exchange_Type]['c']
+
+    Url = 'https://shop.3839.com/index.php?c=' + c + '&a=' + a
+
+    payload = {  
+        'smdeviceid': user['smdeviceid'],
+        'version': user['verison'],
+        'r': "0.9848751991131748",
+        'client': '1',
+        'isIos': '0',
+        'scookie': user['scookie'],
+        'device': user['device'],
+        'id': id
+    }
 
     headers = {
         'User-Agent': user['User-Agent']
     }
 
-    while_num = 0
-
-    #if Url_Type == 'daily' :
-    while_object_num = len(conf[Url_Type][Task_Type]) - 1
-    while while_num < len(conf[Url_Type][Task_Type]) :
-        ac = conf[Url_Type][Task_Type][while_num]
-
-        payload['ac'] = ac
-
-        response = json.loads(requests.post(Url, payload, headers).text)
-
-        if ac == 'DailyDati' and while_num == 2:
-            option = response['back_answer']
-            payload['option'] = option
-
-        while_num += 1
+    response = json.loads(requests.post(Url, payload, headers=headers).text)
 
     return response
+
+def Exchange_Seed():
+    for i in conf['exchange']:
+        if i == 'share':
+            break
+        Exchange_Base_Post(8220, i, user)
+
+#每日获取爆米花主函数
+def Daily_Complete(Daily_List, user):
+
+    Add_Corn_num = 0
+
+    Add_Popcorn_num = 0
+
+    for i in range(3):
+
+        response = Exchange_Base_Post(8220, 'share', user)
+
+        if response['code'] == 200 :
+            Add_Corn_num += 2
+        else :
+            break
+
+    response = Daily_Base_Post('', 'RereadPlant', '', user, 0, 1)
+
+    if int(response['chengshoudu']) == 100 :
+        Daily_Base_Post('plant', 'Harvest', '', user, 0, 1)
+
+        Exchange_Seed()
+
+        response = Daily_Base_Post('plant', 'plant', '', user, 0, 1)
+        
+        Add_Corn = response['add_corn']
+
+        Add_Corn_num += Add_Corn
+
+    response = Daily_Base_Post('sign', 'Sign', '', user, 0, 1)
+
+    if response.get('key') == 'ok' :
+
+        Add_Popcorn_num += response.get('add_baomihua')
+
+    for i in Daily_List:
+
+        Task_Type = i['Task_Type']
+
+        Id = i['Task_Id']
+
+        Url_Type = i['Task_Url_Type']
+
+        while_object_num = len(conf[Url_Type][Task_Type]) - 1
+
+        Daily_Base_Post(Url_Type, Task_Type, Id, user, 0, while_object_num)
+
+    time.sleep(300)
+
+    for i in Daily_List:
+        Task_Type = i['Task_Type']
+
+        Id = i['Task_Id']
+
+        Url_Type = i['Task_Url_Type']
+
+        while_object_num = len(conf[Url_Type][Task_Type])
+
+        while_num = while_object_num - 1
+
+        response = Daily_Base_Post('', 'RereadPlant', Id, user, 0, 1)
+
+        Maturity = int(response['chengshoudu'])
+
+        if Maturity == 100 :
+            Daily_Base_Post('plant', 'Harvest', '', user, 0, 1)
+
+            Exchange_Seed()
+
+            response = Daily_Base_Post('plant', 'plant', '', user, 0, 1)
+
+            Add_Corn = response['add_corn']
+
+            Add_Corn_num += Add_Corn
+
+        else :
+            response = Daily_Base_Post(Url_Type, Task_Type, Id, user, while_num, while_object_num)
+
+            Add_Popcorn = response.get('reward_bmh_num')
+
+            if Add_Popcorn_num :
+                Add_Popcorn_num += Add_Popcorn
+    
+    log = {
+        'Add_Popcorn_num': Add_Popcorn_num,
+        'Add_Corn_num': Add_Corn_num 
+    }
+    
+    return log
 
 #读取总配置文件
 with open('./conf/config.yaml', 'r', encoding='utf-8') as f:

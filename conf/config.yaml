@@ -12,33 +12,35 @@ Task_Type_List: ['getTaskPrize','getLuckyPrize','completeTask','getThreeTasklist
 
 #url为daily
 daily:
-
-#分享奖励
-  DailyApp: ['DailyApp']
-  DailyGameCateJump: ['DailyGameCateJumps']
-  DailyShare: ['DailyShare', 'DailyShareCallback']
-  #预约奖励需先预约
+  DailyApp: ['DailyApp', 'DailyAppLing']
+  DailyGameCateJump: ['DailyGameCateJump','DailyGameCateLing']
+  #分享奖励
+  DailyShare: ['DailyShare', 'DailyShareCallback', 'DailyShareLing']
+  #预约奖励需先预约, 无法实现
   DailyYuyueLing: ['DailyYuyueLing']
   #先用第二个获取答案再进行回答，回答时请求体需加入‘option’，其值为中文答案
-  DailyDati: ['DailyDati', 'DailyDatiAnswer', 'DailyDatiAnswer']
-  DailyToH5Url: ['DailyToH5Url']
-  DailyDownGameLing: ['DailyGamePlay', 'DailyDownGameCheck']
-  DailySmallGame: ['DailySmallGame'] 
-  DailyLing: ['DailyShareLing', 'DailyDatiLing', 'DailyToH5UrlLing', 'DailyDownGameLing', 'DailySmallGameLing','DailyGameCateLing']
+  DailyDati: ['DailyDati', 'DailyDatiAnswer', 'DailyDatiAnswer', 'DailyDatiLing']
+  DailyToH5Url: ['DailyToH5Url', 'DailyToH5UrlLing']
+  DailyDownGameLing: ['DailyGamePlay', 'DailyDownGameCheck', 'DailyDownGameLing']
+  DailySmallGame: ['DailySmallGame', 'DailySmallGameLing'] 
 
 #url为ycx
 ycx:
-  YcxDownGameLing: ['YcxGamePlay', 'YcxDownGameCheck']
-  YcxToH5Url: ['YcxToH5Url']
+  YcxDownGameLing: ['YcxGamePlay', 'YcxDownGameCheck', 'YcxDownGameLing']
+  YcxToH5Url: ['YcxToH5Url', 'YcxToH5UrlLing']
   #等待五分钟
-
-  YcxLing:  ['YcxToH5UrlLing', 'YcxDownGameLing']
 
 #url为plant
 plant: ['plant', 'Harvest']
 #‘plant’为种植种子
 #‘Harvest’为收获
-
+exchange: {
+  unlogin_detail: {"a": 'init', "c": 'Detail'},
+  login_detail: {"a": 'init', "c": 'Detail'},
+  obtain_detail: {"a": 'checkOrder', "c": 'OrderVirtual'},
+  exchange: {"a": 'createOrder', "c": 'OrderVirtual'},
+  share: {"a": 'shareForBmh', "c": 'UserDetail'}
+}
 #设备的数量
 device_num: 2
 #活动目录网页

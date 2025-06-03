@@ -241,7 +241,7 @@
     },
     {
         "comm_id": 554,
-        "ac_ids_num": 7,
+        "ac_ids_num": 8,
         "ac_ids_list": [
             {
                 "task_id": "1861",
@@ -262,6 +262,11 @@
                 "task_id": "1857",
                 "type": "tasktype_4",
                 "complete_type": "completeTask_1857"
+            },
+            {
+                "task_id": "2743",
+                "type": "tasktype_4",
+                "complete_type": "completeTask_2743"
             },
             {
                 "task_id": "2491",
@@ -466,52 +471,6 @@
                 "task_id": "2004",
                 "type": "tasktype_7",
                 "complete_type": "completeTask_2004"
-            }
-        ]
-    },
-    {
-        "comm_id": 579,
-        "ac_ids_num": 8,
-        "ac_ids_list": [
-            {
-                "task_id": "2093",
-                "type": "tasktype_2",
-                "complete_type": "completeTask_2093"
-            },
-            {
-                "task_id": "2092",
-                "type": "tasktype_1",
-                "complete_type": "completeTask_2092"
-            },
-            {
-                "task_id": "2091",
-                "type": "tasktype_4",
-                "complete_type": "completeTask_2091"
-            },
-            {
-                "task_id": "2089",
-                "type": "tasktype_4",
-                "complete_type": "completeTask_2089"
-            },
-            {
-                "task_id": "2088",
-                "type": "tasktype_4",
-                "complete_type": "completeTask_2088"
-            },
-            {
-                "task_id": "2500",
-                "type": "tasktype_18",
-                "complete_type": "completeTask_2500"
-            },
-            {
-                "task_id": "2087",
-                "type": "tasktype_16",
-                "complete_type": "completeTask_2087"
-            },
-            {
-                "task_id": "2086",
-                "type": "tasktype_7",
-                "complete_type": "completeTask_2086"
             }
         ]
     },

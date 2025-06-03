@@ -11,17 +11,17 @@
     },
     {
         "Task_Type": "DailyShare",
-        "Task_Id": "2468",
-        "Task_Url_Type": "daily"
-    },
-    {
-        "Task_Type": "DailyShare",
         "Task_Id": "2469",
         "Task_Url_Type": "daily"
     },
     {
         "Task_Type": "DailyDownGameLing",
         "Task_Id": "2392",
+        "Task_Url_Type": "daily"
+    },
+    {
+        "Task_Type": "DailyShare",
+        "Task_Id": "2476",
         "Task_Url_Type": "daily"
     },
     {

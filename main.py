@@ -4,6 +4,11 @@ import json
 import re
 import time
 import os
+from threading import Thread
+from multiprocessing import Process
+
+
+session = requests.Session()
 
 #post任务请求主函数
 def Post_Activity(url, Task_Complete_Type, comm_id, Task_id, user):
@@ -38,7 +43,7 @@ def Post_Activity(url, Task_Complete_Type, comm_id, Task_id, user):
     #同上
     elif Task_Complete_Type in upGameTask_list :
         #判断是否已领取
-        response = json.loads(requests.post(url, data=payload, headers=headers).text)
+        response = json.loads(session.post(url, data=payload, headers=headers).text)
         #if判断json的键值
         if response.get('info') == '已领取过奖励':
             return {  # 返回包含错误信息的字典
@@ -61,7 +66,7 @@ def Post_Activity(url, Task_Complete_Type, comm_id, Task_id, user):
         #加入必须请求体
         payload['ac'] = ac_list[cycle_current_num]
         #post请求
-        response = json.loads(requests.post(url, data=payload, headers=headers).text)
+        response = json.loads(session.post(url, data=payload, headers=headers).text)
         #循环变量加一
         cycle_current_num += 1
 
@@ -88,11 +93,12 @@ def obtain_comm_ids(ac_web):
     #遍历任务目录网址来获取活动链接及comm_id
     for i in conf[ac_web]:
         #获取列表
-        response = requests.get(i).text
+        response = session.get(i).text
         #网页提取并列表合并
         comm_ids_list=extract_comm_ids(response) + comm_ids_list
     #除重并排序
     comm_ids_list = list(set(comm_ids_list))
+
     return comm_ids_list
 
 #整理html文本来获取ac_id
@@ -138,7 +144,7 @@ def obtain_ac_ids(comm_ids_list):
             'comm_id': i
         }
 
-        response = json.loads(requests.post(object_web, data=payload).text)
+        response = json.loads(session.post(object_web, data=payload).text)
 
         ac_id_list = {
             "comm_id": i,
@@ -148,6 +154,9 @@ def obtain_ac_ids(comm_ids_list):
 
         ac_ids_list.append(ac_id_list)
 
+    #结束连接池
+    session.close()
+
     return ac_ids_list
 
 #获取“赚爆米花”中2的“每日必做”的任务id列表
@@ -155,7 +164,7 @@ def obtain_daily_list():
 
     url = 'https://huodong3.3839.com/n/hykb/cornfarm/index.php?imm=0'
 
-    html = requests.get(url).text
+    html = session.get(url).text
 
     # 正则表达式模式
     pattern = r'<div class="task-prize">(.*?)<div class="task-info">'
@@ -213,7 +222,7 @@ def obtain_daily_list():
 #单个“每日必做”任务完成函数
 def Daily_Base_Post(Url_Type, Task_Type, id , user, while_num, while_object_num) :
     Base_Url = 'https://huodong3.3839.com/n/hykb/cornfarm/ajax'
-
+ 
     if Url_Type :
         Base_Url += '_'
     Url = Base_Url + Url_Type + '.php'
@@ -231,6 +240,7 @@ def Daily_Base_Post(Url_Type, Task_Type, id , user, while_num, while_object_num)
     }
     
     while while_num < while_object_num :
+
         if Url_Type in Url_Type_List:
             ac = conf[Url_Type][Task_Type][while_num]
         elif Url_Type == 'sign' and Task_Type == 'Sign':
@@ -246,12 +256,12 @@ def Daily_Base_Post(Url_Type, Task_Type, id , user, while_num, while_object_num)
 
         payload['ac'] = ac 
         
-        if ac == 'DailyDati' and while_num == 2:
-            option = response['back_answer']
+        if ac == 'DailyDatiAnswer' and while_num == 2:
+            option = response.get('back_answer')
+            if option :
+                payload['option'] = option
 
-            payload['option'] = option
-
-        response = json.loads(requests.post(Url, payload, headers).text)
+        response = json.loads(session.post(Url, payload, headers).text)
 
         while_num += 1
 
@@ -280,7 +290,7 @@ def Exchange_Base_Post(id, Exchange_Type, user):
         'User-Agent': user['User-Agent']
     }
 
-    response = json.loads(requests.post(Url, payload, headers=headers).text)
+    response = json.loads(session.post(Url, payload, headers=headers).text)
 
     return response
 
@@ -317,7 +327,7 @@ def Daily_Complete(Daily_List, user):
     #如果收获成功
     if response.get('key') == 'ok' and response.get('key'):
         #种植
-        response = Daily_Base_Post('plant', 'plant', '', user, 0, 1)
+        Daily_Base_Post('plant', 'plant', '', user, 0, 1)
         #兑换种子
         Exchange_Seed()
         #追加玉米增加量
@@ -333,7 +343,7 @@ def Daily_Complete(Daily_List, user):
     #如果浇水成功
     if response.get('key') == 'ok' :
         #追加爆米花增加量
-        Add_Popcorn_num += response.get('add_baomihua')
+        Add_Popcorn_num += int(response.get('add_baomihua'))
 
     #遍历每日任务列表来完成任务
     for i in Daily_List:
@@ -371,23 +381,24 @@ def Daily_Complete(Daily_List, user):
         #如果成熟
         if Maturity == 100 :
             #收获
-            Daily_Base_Post('plant', 'Harvest', '', user, 0, 1)
+            response = Daily_Base_Post('plant', 'Harvest', '', user, 0, 1)
             #购买种子
             Exchange_Seed()
             #种植
-            response = Daily_Base_Post('plant', 'plant', '', user, 0, 1)
+            Daily_Base_Post('plant', 'plant', '', user, 0, 1)
             #追加玉米增加量
-            Add_Corn_num += response['add_corn']
+            Add_Corn_num += int(response['add_corn'])
         #如果未成熟
         else :
             #获取任务奖励
             response = Daily_Base_Post(Url_Type, Task_Type, Id, user, while_num, while_object_num)
+            print(response)
             #获取爆米花增加量
             Add_Popcorn = response.get('reward_bmh_num')
             #如果奖励有爆米花
-            if Add_Popcorn_num :
+            if Add_Popcorn :
                 #则追加爆米花增加量
-                Add_Popcorn_num += Add_Popcorn
+                Add_Popcorn_num += int(Add_Popcorn)
             
     #处理日志格式
     log = {
@@ -422,38 +433,39 @@ def Activities_Complete(user):
             #获取任务类别
             tasktype = y['type']   
             #完成单个活动中的单个任务
-            result = Post_Activity(url, tasktype, comm_id, Task_id, user)
+            response = Post_Activity(url, tasktype, comm_id, Task_id, user)
+            print(response)
             #定义该任务日志
             result_log = {
                 'Task_id': Task_id
             }
             #判断该任务执行结果
-            #如果不为成功
 
-            if str(result['key']) != 'ok' :
+            #如果不为成功
+            if str(response['key']) != 'ok' :
                 #如果输出非奖品且非爆米花
-                if str(result['name']) in Info_List:
+                if str(response.get('name')) in Info_List or response.get('key') == 'error':
                     #结束单词循环
                     continue
                 #反之
                 else :
                     #处理结果
-                    result_log['info'] = result['info']
+                    result_log['info'] = response['info']
                     #追加日志
                     current_log['log'].append(result_log)
             #如果结果为非爆米花且为奖品
-            elif str(result.get('code')) != '0' and result.get('code') is not None:
+            elif str(response.get('code')) != '0' and response.get('code') is not None:
                 #处理日志
-                result_log['info'] = result['name']
-                result_log['code'] = result['code']
+                result_log['info'] = response['name']
+                result_log['code'] = response['code']
                 #追加日志
                 current_log['log'].append(result_log)
             #排除完即为爆米花
             else :
                 #处理日志
-                result_log['info'] = result['name']
+                result_log['info'] = response['name']
                 #提取爆米花数额
-                Popcorn_num = re.search(r'\d+$', result['name']).group()
+                Popcorn_num = re.search(r'\d+$', response['name']).group()
                 #追加爆米花数额
                 Popcorn_Current_Num += int(Popcorn_num)
 

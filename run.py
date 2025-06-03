@@ -5,7 +5,7 @@ with open('./conf/Daily_List.json', 'r', encoding='utf-8') as f:
 
 if __name__ == '__main__':
 
-    num = 2
+    num = 1
 
     start_time = time.time()  # 记录开始时间戳
 

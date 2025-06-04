@@ -5,7 +5,7 @@ import re
 import time
 import os
 from threading import Thread
-from multiprocessing import Processg
+from multiprocessing import Process
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 

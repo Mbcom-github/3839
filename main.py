@@ -5,10 +5,22 @@ import re
 import time
 import os
 from threading import Thread
-from multiprocessing import Process
-
+from multiprocessing import Processg
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 session = requests.Session()
+
+retry_strategy = Retry(
+    total=3,  # 最大重试次数
+    backoff_factor=1,  # 退避因子（等待时间 = backoff_factor * (2^(重试次数-1))秒）
+    status_forcelist=[500, 502, 503, 504],  # 需要重试的HTTP状态码
+    allowed_methods=["POST", "GET"]  # 允许重试的HTTP方法
+)
+
+adapter = HTTPAdapter(max_retries=retry_strategy)
+session.mount("https://", adapter)
+session.mount("http://", adapter)
 
 #post任务请求主函数
 def Post_Activity(url, Task_Complete_Type, comm_id, Task_id, user):

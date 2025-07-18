@@ -3,6 +3,7 @@ import requests
 import json
 import re
 import time
+import random
 import os
 from threading import Thread
 from multiprocessing import Process
@@ -29,13 +30,14 @@ def Post_Activity(url, Task_Complete_Type, comm_id, Task_id, user):
     ac_list = ["completeTask"]
     #upGameTask类型的列表，用于筛选符合的类型
     upGameTask_list = ["tasktype_2", "tasktype_7", "tasktype_10", "tasktype_11", "tasktype_14", "tasktype_16", "tasktype_18"]
+    r = "0." + str( time.time_ns()) + str(random.randint(100,999))
     #请求体
     payload = {
         'ac': 'getTaskPrize',
         'comm_id': int(comm_id),      
-        #'smdeviceid': user['smdeviceid'], #——只有兑换请求需要
+        'smdeviceid': user['smdeviceid'], #——只有兑换请求需要
         'verison': user['verison'],
-        'r': "0.9848751991131748",
+        'r': r,
         'scookie': user['scookie'],
         'device': user['device'],
         'id': Task_id
@@ -44,6 +46,7 @@ def Post_Activity(url, Task_Complete_Type, comm_id, Task_id, user):
     headers = {
         'User-Agent': user['User-Agent']
     }
+    response_log = []
     #判断任务类别
     if Task_Complete_Type == 'tasktype_1' :
         #更改请求顺序
@@ -58,11 +61,11 @@ def Post_Activity(url, Task_Complete_Type, comm_id, Task_id, user):
         response = json.loads(session.post(url, data=payload, headers=headers).text)
         #if判断json的键值
         if response.get('info') == '已领取过奖励':
-            return {  # 返回包含错误信息的字典
+            return [{  # 返回包含错误信息的字典
                 "key": "error",
                 "info": "已领取过奖励",
                 "detail": f"今日已领取，comm_id={comm_id}, Task_id={Task_id}"
-            }
+            }]
 
         ac_list = ["upGameTask", "completeTask"]
 
@@ -81,8 +84,9 @@ def Post_Activity(url, Task_Complete_Type, comm_id, Task_id, user):
         response = json.loads(session.post(url, data=payload, headers=headers).text)
         #循环变量加一
         cycle_current_num += 1
+        response_log.append(response)
 
-    return response
+    return response_log
     
 #整理html文本来获取comm_id
 def extract_comm_ids(html):
@@ -233,6 +237,8 @@ def obtain_daily_list():
 
 #单个“每日必做”任务完成函数
 def Daily_Base_Post(Url_Type, Task_Type, id , user, while_num, while_object_num) :
+    r = "0." + str( time.time_ns()) + str(random.randint(100,999))
+
     Base_Url = 'https://huodong3.3839.com/n/hykb/cornfarm/ajax'
  
     if Url_Type :
@@ -244,7 +250,8 @@ def Daily_Base_Post(Url_Type, Task_Type, id , user, while_num, while_object_num)
     payload = {
         'id' : id ,
         'scookie': user['scookie'],
-        'device': user['device']
+        'device': user['device'],
+        'r': r
     }
 
     headers = {
@@ -287,10 +294,12 @@ def Exchange_Base_Post(id, Exchange_Type, user):
 
     Url = 'https://shop.3839.com/index.php?c=' + c + '&a=' + a
 
+    r = "0." + str( time.time_ns()) + str(random.randint(100,999))
+
     payload = {  
         'smdeviceid': user['smdeviceid'],
         'version': user['verison'],
-        'r': "0.9848751991131748",
+        'r': r,
         'client': '1',
         'isIos': '0',
         'scookie': user['scookie'],
@@ -370,8 +379,8 @@ def Daily_Complete(Daily_List, user):
         #完成任务
         Daily_Base_Post(Url_Type, Task_Type, Id, user, 0, while_object_num)
 
-    #等待部分计时任务，这破hykb，任务是真计时啊，还tm是服务器计时
-    time.sleep(300)
+    #等待部分计时任务，这破hykb，任务是真计时啊，还tm是服务器计时, 搁这硬等
+    time.sleep(330)
 
     #遍历每日任务列表来获取任务奖励
     for i in Daily_List:
@@ -442,16 +451,24 @@ def Activities_Complete(user):
         for y in i['ac_ids_list']:
             #获取任务id
             Task_id = y['task_id']
+
             #获取任务类别
             tasktype = y['type']   
+
             #完成单个活动中的单个任务
             response = Post_Activity(url, tasktype, comm_id, Task_id, user)
-            print(response)
+
             #定义该任务日志
             result_log = {
+                'response': response,
+                'tasktype': tasktype,
                 'Task_id': Task_id
             }
+
+            print(response)
+
             #判断该任务执行结果
+            response = response[-1]
 
             #如果不为成功
             if str(response['key']) != 'ok' :
@@ -480,6 +497,8 @@ def Activities_Complete(user):
                 Popcorn_num = re.search(r'\d+$', response['name']).group()
                 #追加爆米花数额
                 Popcorn_Current_Num += int(Popcorn_num)
+
+            
 
         #追加该次活动的日志
         result.append(current_log)

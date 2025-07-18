@@ -43,6 +43,7 @@ if __name__ == '__main__':
 
         #完成活动
         response = Activities_Complete(user)
+
         #处理爆米花数量
         Popcorn_Obtain_Num += int(response['Popcorn_Current_Num'])
         #追加日志

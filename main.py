@@ -5,6 +5,7 @@ import re
 import time
 import random
 import os
+import logging
 from threading import Thread
 from multiprocessing import Process
 from requests.adapters import HTTPAdapter
@@ -12,32 +13,34 @@ from urllib3.util.retry import Retry
 
 session = requests.Session()
 
-retry_strategy = Retry(
-    total=3,  # 最大重试次数
-    backoff_factor=1,  # 退避因子（等待时间 = backoff_factor * (2^(重试次数-1))秒）
-    status_forcelist=[500, 502, 503, 504],  # 需要重试的HTTP状态码
-    allowed_methods=["POST", "GET"]  # 允许重试的HTTP方法
-)
+#
+# retry_strategy = Retry(
+#     total=3,  # 最大重试次数
+#     backoff_factor=1,  # 退避因子（等待时间 = backoff_factor * (2^(重试次数-1))秒）
+#     status_forcelist=[500, 502, 503, 504],  # 需要重试的HTTP状态码
+#     allowed_methods=["POST", "GET"]  # 允许重试的HTTP方法
+# )
 
-adapter = HTTPAdapter(max_retries=retry_strategy)
-session.mount("https://", adapter)
-session.mount("http://", adapter)
+# adapter = HTTPAdapter(max_retries=retry_strategy)
+# session.mount("https://", adapter)
+# session.mount("http://", adapter)
 
 #post任务请求主函数
 def Post_Activity(url, Task_Complete_Type, comm_id, Task_id, user):
     #url为目的链接，ac为执行类型，comm_id为任务id
     #该list变量容纳待执行的任务类型
     ac_list = ["completeTask"]
+
     #upGameTask类型的列表，用于筛选符合的类型
     upGameTask_list = ["tasktype_2", "tasktype_7", "tasktype_10", "tasktype_11", "tasktype_14", "tasktype_16", "tasktype_18"]
-    r = "0." + str( time.time_ns()) + str(random.randint(100,999))
+
     #请求体
     payload = {
         'ac': 'getTaskPrize',
         'comm_id': int(comm_id),      
         'smdeviceid': user['smdeviceid'], #——只有兑换请求需要
+        'checkstr': '',
         'verison': user['verison'],
-        'r': r,
         'scookie': user['scookie'],
         'device': user['device'],
         'id': Task_id
@@ -81,6 +84,8 @@ def Post_Activity(url, Task_Complete_Type, comm_id, Task_id, user):
         #加入必须请求体
         payload['ac'] = ac_list[cycle_current_num]
         #post请求
+        payload['r'] = "0." + str(time.time_ns())[:-7] + str(random.randint(100,999))
+
         response = json.loads(session.post(url, data=payload, headers=headers).text)
         #循环变量加一
         cycle_current_num += 1
@@ -237,7 +242,7 @@ def obtain_daily_list():
 
 #单个“每日必做”任务完成函数
 def Daily_Base_Post(Url_Type, Task_Type, id , user, while_num, while_object_num) :
-    r = "0." + str( time.time_ns()) + str(random.randint(100,999))
+    r = "0." + str(time.time_ns())[:-7] + str(random.randint(100,999))
 
     Base_Url = 'https://huodong3.3839.com/n/hykb/cornfarm/ajax'
  
@@ -250,6 +255,7 @@ def Daily_Base_Post(Url_Type, Task_Type, id , user, while_num, while_object_num)
     payload = {
         'id' : id ,
         'scookie': user['scookie'],
+        'smdeviceid': user['smdeviceid'],
         'device': user['device'],
         'r': r
     }
@@ -264,9 +270,6 @@ def Daily_Base_Post(Url_Type, Task_Type, id , user, while_num, while_object_num)
             ac = conf[Url_Type][Task_Type][while_num]
         elif Url_Type == 'sign' and Task_Type == 'Sign':
             ac = Task_Type
-
-            payload['smdeviceid'] = user['smdeviceid']
-
             payload['verison'] = user['verison']
 
             payload['OpenAutoSign'] = 'close'
@@ -294,7 +297,7 @@ def Exchange_Base_Post(id, Exchange_Type, user):
 
     Url = 'https://shop.3839.com/index.php?c=' + c + '&a=' + a
 
-    r = "0." + str( time.time_ns()) + str(random.randint(100,999))
+    r = "0." + str(time.time_ns())[:-7] + str(random.randint(100,999))
 
     payload = {  
         'smdeviceid': user['smdeviceid'],
@@ -413,7 +416,7 @@ def Daily_Complete(Daily_List, user):
         else :
             #获取任务奖励
             response = Daily_Base_Post(Url_Type, Task_Type, Id, user, while_num, while_object_num)
-            print(response)
+            #print(response)
             #获取爆米花增加量
             Add_Popcorn = response.get('reward_bmh_num')
             #如果奖励有爆米花
@@ -465,13 +468,15 @@ def Activities_Complete(user):
                 'Task_id': Task_id
             }
 
-            print(response)
-
             #判断该任务执行结果
             response = response[-1]
 
+            if str(response['key']) == "shumei_black_other" :
+                print(json.dumps(response, indent=4).encode().decode('unicode_escape'))
+                exit()
+
             #如果不为成功
-            if str(response['key']) != 'ok' :
+            elif str(response['key']) != 'ok' :
                 #如果输出非奖品且非爆米花
                 if str(response.get('name')) in Info_List or response.get('key') == 'error':
                     #结束单词循环
@@ -490,7 +495,7 @@ def Activities_Complete(user):
                 #追加日志
                 current_log['log'].append(result_log)
             #排除完即为爆米花
-            else :
+            elif str(response.get('id')) == '315':
                 #处理日志
                 result_log['info'] = response['name']
                 #提取爆米花数额

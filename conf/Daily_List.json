@@ -25,6 +25,11 @@
         "Task_Url_Type": "daily"
     },
     {
+        "Task_Type": "DailyDownGameLing",
+        "Task_Id": "2533",
+        "Task_Url_Type": "daily"
+    },
+    {
         "Task_Type": "DailyShare",
         "Task_Id": "2622",
         "Task_Url_Type": "daily"
@@ -40,8 +45,8 @@
         "Task_Url_Type": "daily"
     },
     {
-        "Task_Type": "DailyDownGameLing",
-        "Task_Id": "2533",
+        "Task_Type": "DailyShare",
+        "Task_Id": "2623",
         "Task_Url_Type": "daily"
     },
     {
@@ -102,11 +107,6 @@
     {
         "Task_Type": "DailyShare",
         "Task_Id": "2579",
-        "Task_Url_Type": "daily"
-    },
-    {
-        "Task_Type": "DailyDownGameLing",
-        "Task_Id": "2512",
         "Task_Url_Type": "daily"
     },
     {

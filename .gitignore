@@ -1,5 +1,4 @@
 __pycache__/
 *.pyc
 log/
-user/user-1.yaml
-user/user-2.yaml
+user/user-*.yaml

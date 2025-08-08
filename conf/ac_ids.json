@@ -465,108 +465,6 @@
         ]
     },
     {
-        "comm_id": 665,
-        "ac_ids_num": 8,
-        "ac_ids_list": [
-            {
-                "task_id": "2981",
-                "type": "tasktype_3",
-                "complete_type": "completeTask_2981"
-            },
-            {
-                "task_id": "2977",
-                "type": "tasktype_4",
-                "complete_type": "completeTask_2977"
-            },
-            {
-                "task_id": "2980",
-                "type": "tasktype_1",
-                "complete_type": "completeTask_2980"
-            },
-            {
-                "task_id": "2979",
-                "type": "tasktype_4",
-                "complete_type": "completeTask_2979"
-            },
-            {
-                "task_id": "2976",
-                "type": "tasktype_4",
-                "complete_type": "completeTask_2976"
-            },
-            {
-                "task_id": "2992",
-                "type": "tasktype_18",
-                "complete_type": "completeTask_2992"
-            },
-            {
-                "task_id": "2975",
-                "type": "tasktype_16",
-                "complete_type": "completeTask_2975"
-            },
-            {
-                "task_id": "2974",
-                "type": "tasktype_7",
-                "complete_type": "completeTask_2974"
-            }
-        ]
-    },
-    {
-        "comm_id": 667,
-        "ac_ids_num": 10,
-        "ac_ids_list": [
-            {
-                "task_id": "2999",
-                "type": "tasktype_3",
-                "complete_type": "completeTask_2999"
-            },
-            {
-                "task_id": "3019",
-                "type": "tasktype_4",
-                "complete_type": "completeTask_3019"
-            },
-            {
-                "task_id": "3023",
-                "type": "tasktype_4",
-                "complete_type": "completeTask_3023"
-            },
-            {
-                "task_id": "2998",
-                "type": "tasktype_4",
-                "complete_type": "completeTask_2998"
-            },
-            {
-                "task_id": "2997",
-                "type": "tasktype_1",
-                "complete_type": "completeTask_2997"
-            },
-            {
-                "task_id": "2996",
-                "type": "tasktype_4",
-                "complete_type": "completeTask_2996"
-            },
-            {
-                "task_id": "3000",
-                "type": "tasktype_4",
-                "complete_type": "completeTask_3000"
-            },
-            {
-                "task_id": "2995",
-                "type": "tasktype_18",
-                "complete_type": "completeTask_2995"
-            },
-            {
-                "task_id": "2994",
-                "type": "tasktype_16",
-                "complete_type": "completeTask_2994"
-            },
-            {
-                "task_id": "2993",
-                "type": "tasktype_7",
-                "complete_type": "completeTask_2993"
-            }
-        ]
-    },
-    {
         "comm_id": 668,
         "ac_ids_num": 8,
         "ac_ids_list": [
@@ -706,17 +604,12 @@
     },
     {
         "comm_id": 671,
-        "ac_ids_num": 9,
+        "ac_ids_num": 8,
         "ac_ids_list": [
             {
                 "task_id": "3047",
                 "type": "tasktype_3",
                 "complete_type": "completeTask_3047"
-            },
-            {
-                "task_id": "3129",
-                "type": "tasktype_4",
-                "complete_type": "completeTask_3129"
             },
             {
                 "task_id": "3045",
@@ -945,92 +838,6 @@
         ]
     },
     {
-        "comm_id": 677,
-        "ac_ids_num": 16,
-        "ac_ids_list": [
-            {
-                "task_id": "3128",
-                "type": "tasktype_3",
-                "complete_type": "completeTask_3128"
-            },
-            {
-                "task_id": "3127",
-                "type": "tasktype_11",
-                "complete_type": "completeTask_3127"
-            },
-            {
-                "task_id": "3125",
-                "type": "tasktype_1",
-                "complete_type": "completeTask_3125"
-            },
-            {
-                "task_id": "3124",
-                "type": "tasktype_1",
-                "complete_type": "completeTask_3124"
-            },
-            {
-                "task_id": "3123",
-                "type": "tasktype_4",
-                "complete_type": "completeTask_3123"
-            },
-            {
-                "task_id": "3126",
-                "type": "tasktype_4",
-                "complete_type": "completeTask_3126"
-            },
-            {
-                "task_id": "3122",
-                "type": "tasktype_4",
-                "complete_type": "completeTask_3122"
-            },
-            {
-                "task_id": "3121",
-                "type": "tasktype_4",
-                "complete_type": "completeTask_3121"
-            },
-            {
-                "task_id": "3120",
-                "type": "tasktype_4",
-                "complete_type": "completeTask_3120"
-            },
-            {
-                "task_id": "3119",
-                "type": "tasktype_4",
-                "complete_type": "completeTask_3119"
-            },
-            {
-                "task_id": "3118",
-                "type": "tasktype_4",
-                "complete_type": "completeTask_3118"
-            },
-            {
-                "task_id": "3216",
-                "type": "tasktype_4",
-                "complete_type": "completeTask_3216"
-            },
-            {
-                "task_id": "3117",
-                "type": "tasktype_18",
-                "complete_type": "completeTask_3117"
-            },
-            {
-                "task_id": "3115",
-                "type": "tasktype_14",
-                "complete_type": "completeTask_3115"
-            },
-            {
-                "task_id": "3114",
-                "type": "tasktype_16",
-                "complete_type": "completeTask_3114"
-            },
-            {
-                "task_id": "3113",
-                "type": "tasktype_7",
-                "complete_type": "completeTask_3113"
-            }
-        ]
-    },
-    {
         "comm_id": 678,
         "ac_ids_num": 8,
         "ac_ids_list": [
@@ -1220,52 +1027,6 @@
         ]
     },
     {
-        "comm_id": 554,
-        "ac_ids_num": 8,
-        "ac_ids_list": [
-            {
-                "task_id": "1861",
-                "type": "tasktype_2",
-                "complete_type": "completeTask_1861"
-            },
-            {
-                "task_id": "2176",
-                "type": "tasktype_4",
-                "complete_type": "completeTask_2176"
-            },
-            {
-                "task_id": "1860",
-                "type": "tasktype_4",
-                "complete_type": "completeTask_1860"
-            },
-            {
-                "task_id": "1859",
-                "type": "tasktype_1",
-                "complete_type": "completeTask_1859"
-            },
-            {
-                "task_id": "1857",
-                "type": "tasktype_4",
-                "complete_type": "completeTask_1857"
-            },
-            {
-                "task_id": "2491",
-                "type": "tasktype_18",
-                "complete_type": "completeTask_2491"
-            },
-            {
-                "task_id": "1856",
-                "type": "tasktype_16",
-                "complete_type": "completeTask_1856"
-            },
-            {
-                "task_id": "1855",
-                "type": "tasktype_7",
-                "complete_type": "completeTask_1855"
-            }
-        ]
-    },
-    {
         "comm_id": 682,
         "ac_ids_num": 9,
         "ac_ids_list": [
@@ -1313,57 +1074,6 @@
                 "task_id": "3171",
                 "type": "tasktype_7",
                 "complete_type": "completeTask_3171"
-            }
-        ]
-    },
-    {
-        "comm_id": 683,
-        "ac_ids_num": 9,
-        "ac_ids_list": [
-            {
-                "task_id": "3189",
-                "type": "tasktype_2",
-                "complete_type": "completeTask_3189"
-            },
-            {
-                "task_id": "3188",
-                "type": "tasktype_4",
-                "complete_type": "completeTask_3188"
-            },
-            {
-                "task_id": "3187",
-                "type": "tasktype_1",
-                "complete_type": "completeTask_3187"
-            },
-            {
-                "task_id": "3186",
-                "type": "tasktype_4",
-                "complete_type": "completeTask_3186"
-            },
-            {
-                "task_id": "3185",
-                "type": "tasktype_4",
-                "complete_type": "completeTask_3185"
-            },
-            {
-                "task_id": "3184",
-                "type": "tasktype_4",
-                "complete_type": "completeTask_3184"
-            },
-            {
-                "task_id": "3183",
-                "type": "tasktype_18",
-                "complete_type": "completeTask_3183"
-            },
-            {
-                "task_id": "3182",
-                "type": "tasktype_16",
-                "complete_type": "completeTask_3182"
-            },
-            {
-                "task_id": "3181",
-                "type": "tasktype_7",
-                "complete_type": "completeTask_3181"
             }
         ]
     },
@@ -1460,94 +1170,53 @@
         ]
     },
     {
-        "comm_id": 686,
-        "ac_ids_num": 8,
+        "comm_id": 687,
+        "ac_ids_num": 9,
         "ac_ids_list": [
             {
-                "task_id": "3214",
+                "task_id": "3225",
                 "type": "tasktype_2",
-                "complete_type": "completeTask_3214"
+                "complete_type": "completeTask_3225"
             },
             {
-                "task_id": "3213",
+                "task_id": "3224",
+                "type": "tasktype_4",
+                "complete_type": "completeTask_3224"
+            },
+            {
+                "task_id": "3223",
                 "type": "tasktype_1",
-                "complete_type": "completeTask_3213"
+                "complete_type": "completeTask_3223"
             },
             {
-                "task_id": "3212",
+                "task_id": "3222",
                 "type": "tasktype_4",
-                "complete_type": "completeTask_3212"
+                "complete_type": "completeTask_3222"
             },
             {
-                "task_id": "3211",
+                "task_id": "3221",
                 "type": "tasktype_4",
-                "complete_type": "completeTask_3211"
+                "complete_type": "completeTask_3221"
             },
             {
-                "task_id": "3210",
+                "task_id": "3220",
                 "type": "tasktype_4",
-                "complete_type": "completeTask_3210"
+                "complete_type": "completeTask_3220"
             },
             {
-                "task_id": "3209",
+                "task_id": "3219",
                 "type": "tasktype_18",
-                "complete_type": "completeTask_3209"
+                "complete_type": "completeTask_3219"
             },
             {
-                "task_id": "3208",
+                "task_id": "3218",
                 "type": "tasktype_16",
-                "complete_type": "completeTask_3208"
+                "complete_type": "completeTask_3218"
             },
             {
-                "task_id": "3207",
+                "task_id": "3217",
                 "type": "tasktype_7",
-                "complete_type": "completeTask_3207"
-            }
-        ]
-    },
-    {
-        "comm_id": 688,
-        "ac_ids_num": 8,
-        "ac_ids_list": [
-            {
-                "task_id": "3233",
-                "type": "tasktype_2",
-                "complete_type": "completeTask_3233"
-            },
-            {
-                "task_id": "3232",
-                "type": "tasktype_1",
-                "complete_type": "completeTask_3232"
-            },
-            {
-                "task_id": "3231",
-                "type": "tasktype_4",
-                "complete_type": "completeTask_3231"
-            },
-            {
-                "task_id": "3230",
-                "type": "tasktype_4",
-                "complete_type": "completeTask_3230"
-            },
-            {
-                "task_id": "3229",
-                "type": "tasktype_4",
-                "complete_type": "completeTask_3229"
-            },
-            {
-                "task_id": "3228",
-                "type": "tasktype_18",
-                "complete_type": "completeTask_3228"
-            },
-            {
-                "task_id": "3227",
-                "type": "tasktype_16",
-                "complete_type": "completeTask_3227"
-            },
-            {
-                "task_id": "3226",
-                "type": "tasktype_7",
-                "complete_type": "completeTask_3226"
+                "complete_type": "completeTask_3217"
             }
         ]
     },
@@ -2134,6 +1803,77 @@
         ]
     },
     {
+        "comm_id": 701,
+        "ac_ids_num": 13,
+        "ac_ids_list": [
+            {
+                "task_id": "3376",
+                "type": "tasktype_3",
+                "complete_type": "completeTask_3376"
+            },
+            {
+                "task_id": "3375",
+                "type": "tasktype_11",
+                "complete_type": "completeTask_3375"
+            },
+            {
+                "task_id": "3374",
+                "type": "tasktype_1",
+                "complete_type": "completeTask_3374"
+            },
+            {
+                "task_id": "3390",
+                "type": "tasktype_4",
+                "complete_type": "completeTask_3390"
+            },
+            {
+                "task_id": "3388",
+                "type": "tasktype_4",
+                "complete_type": "completeTask_3388"
+            },
+            {
+                "task_id": "3373",
+                "type": "tasktype_4",
+                "complete_type": "completeTask_3373"
+            },
+            {
+                "task_id": "3435",
+                "type": "tasktype_4",
+                "complete_type": "completeTask_3435"
+            },
+            {
+                "task_id": "3437",
+                "type": "tasktype_4",
+                "complete_type": "completeTask_3437"
+            },
+            {
+                "task_id": "3372",
+                "type": "tasktype_4",
+                "complete_type": "completeTask_3372"
+            },
+            {
+                "task_id": "3371",
+                "type": "tasktype_4",
+                "complete_type": "completeTask_3371"
+            },
+            {
+                "task_id": "3369",
+                "type": "tasktype_18",
+                "complete_type": "completeTask_3369"
+            },
+            {
+                "task_id": "3368",
+                "type": "tasktype_16",
+                "complete_type": "completeTask_3368"
+            },
+            {
+                "task_id": "3367",
+                "type": "tasktype_7",
+                "complete_type": "completeTask_3367"
+            }
+        ]
+    },
+    {
         "comm_id": 702,
         "ac_ids_num": 8,
         "ac_ids_list": [
@@ -2176,6 +1916,241 @@
                 "task_id": "3379",
                 "type": "tasktype_7",
                 "complete_type": "completeTask_3379"
+            }
+        ]
+    },
+    {
+        "comm_id": 703,
+        "ac_ids_num": 8,
+        "ac_ids_list": [
+            {
+                "task_id": "3398",
+                "type": "tasktype_3",
+                "complete_type": "completeTask_3398"
+            },
+            {
+                "task_id": "3397",
+                "type": "tasktype_1",
+                "complete_type": "completeTask_3397"
+            },
+            {
+                "task_id": "3396",
+                "type": "tasktype_4",
+                "complete_type": "completeTask_3396"
+            },
+            {
+                "task_id": "3395",
+                "type": "tasktype_4",
+                "complete_type": "completeTask_3395"
+            },
+            {
+                "task_id": "3394",
+                "type": "tasktype_4",
+                "complete_type": "completeTask_3394"
+            },
+            {
+                "task_id": "3393",
+                "type": "tasktype_18",
+                "complete_type": "completeTask_3393"
+            },
+            {
+                "task_id": "3392",
+                "type": "tasktype_16",
+                "complete_type": "completeTask_3392"
+            },
+            {
+                "task_id": "3391",
+                "type": "tasktype_7",
+                "complete_type": "completeTask_3391"
+            }
+        ]
+    },
+    {
+        "comm_id": 704,
+        "ac_ids_num": 7,
+        "ac_ids_list": [
+            {
+                "task_id": "3406",
+                "type": "tasktype_3",
+                "complete_type": "completeTask_3406"
+            },
+            {
+                "task_id": "3402",
+                "type": "tasktype_4",
+                "complete_type": "completeTask_3402"
+            },
+            {
+                "task_id": "3405",
+                "type": "tasktype_4",
+                "complete_type": "completeTask_3405"
+            },
+            {
+                "task_id": "3404",
+                "type": "tasktype_1",
+                "complete_type": "completeTask_3404"
+            },
+            {
+                "task_id": "3403",
+                "type": "tasktype_4",
+                "complete_type": "completeTask_3403"
+            },
+            {
+                "task_id": "3401",
+                "type": "tasktype_16",
+                "complete_type": "completeTask_3401"
+            },
+            {
+                "task_id": "3400",
+                "type": "tasktype_7",
+                "complete_type": "completeTask_3400"
+            }
+        ]
+    },
+    {
+        "comm_id": 705,
+        "ac_ids_num": 10,
+        "ac_ids_list": [
+            {
+                "task_id": "3415",
+                "type": "tasktype_3",
+                "complete_type": "completeTask_3415"
+            },
+            {
+                "task_id": "3411",
+                "type": "tasktype_4",
+                "complete_type": "completeTask_3411"
+            },
+            {
+                "task_id": "3414",
+                "type": "tasktype_4",
+                "complete_type": "completeTask_3414"
+            },
+            {
+                "task_id": "3413",
+                "type": "tasktype_1",
+                "complete_type": "completeTask_3413"
+            },
+            {
+                "task_id": "3412",
+                "type": "tasktype_4",
+                "complete_type": "completeTask_3412"
+            },
+            {
+                "task_id": "3436",
+                "type": "tasktype_4",
+                "complete_type": "completeTask_3436"
+            },
+            {
+                "task_id": "3410",
+                "type": "tasktype_4",
+                "complete_type": "completeTask_3410"
+            },
+            {
+                "task_id": "3409",
+                "type": "tasktype_18",
+                "complete_type": "completeTask_3409"
+            },
+            {
+                "task_id": "3408",
+                "type": "tasktype_16",
+                "complete_type": "completeTask_3408"
+            },
+            {
+                "task_id": "3407",
+                "type": "tasktype_7",
+                "complete_type": "completeTask_3407"
+            }
+        ]
+    },
+    {
+        "comm_id": 706,
+        "ac_ids_num": 8,
+        "ac_ids_list": [
+            {
+                "task_id": "3425",
+                "type": "tasktype_3",
+                "complete_type": "completeTask_3425"
+            },
+            {
+                "task_id": "3424",
+                "type": "tasktype_4",
+                "complete_type": "completeTask_3424"
+            },
+            {
+                "task_id": "3423",
+                "type": "tasktype_4",
+                "complete_type": "completeTask_3423"
+            },
+            {
+                "task_id": "3422",
+                "type": "tasktype_1",
+                "complete_type": "completeTask_3422"
+            },
+            {
+                "task_id": "3421",
+                "type": "tasktype_4",
+                "complete_type": "completeTask_3421"
+            },
+            {
+                "task_id": "3418",
+                "type": "tasktype_18",
+                "complete_type": "completeTask_3418"
+            },
+            {
+                "task_id": "3417",
+                "type": "tasktype_16",
+                "complete_type": "completeTask_3417"
+            },
+            {
+                "task_id": "3416",
+                "type": "tasktype_7",
+                "complete_type": "completeTask_3416"
+            }
+        ]
+    },
+    {
+        "comm_id": 707,
+        "ac_ids_num": 8,
+        "ac_ids_list": [
+            {
+                "task_id": "3433",
+                "type": "tasktype_2",
+                "complete_type": "completeTask_3433"
+            },
+            {
+                "task_id": "3432",
+                "type": "tasktype_1",
+                "complete_type": "completeTask_3432"
+            },
+            {
+                "task_id": "3431",
+                "type": "tasktype_4",
+                "complete_type": "completeTask_3431"
+            },
+            {
+                "task_id": "3430",
+                "type": "tasktype_4",
+                "complete_type": "completeTask_3430"
+            },
+            {
+                "task_id": "3429",
+                "type": "tasktype_4",
+                "complete_type": "completeTask_3429"
+            },
+            {
+                "task_id": "3428",
+                "type": "tasktype_18",
+                "complete_type": "completeTask_3428"
+            },
+            {
+                "task_id": "3427",
+                "type": "tasktype_16",
+                "complete_type": "completeTask_3427"
+            },
+            {
+                "task_id": "3426",
+                "type": "tasktype_7",
+                "complete_type": "completeTask_3426"
             }
         ]
     },
@@ -2273,52 +2248,6 @@
                 "task_id": "2272",
                 "type": "tasktype_7",
                 "complete_type": "completeTask_2272"
-            }
-        ]
-    },
-    {
-        "comm_id": 611,
-        "ac_ids_num": 8,
-        "ac_ids_list": [
-            {
-                "task_id": "2376",
-                "type": "tasktype_3",
-                "complete_type": "completeTask_2376"
-            },
-            {
-                "task_id": "2374",
-                "type": "tasktype_1",
-                "complete_type": "completeTask_2374"
-            },
-            {
-                "task_id": "2375",
-                "type": "tasktype_4",
-                "complete_type": "completeTask_2375"
-            },
-            {
-                "task_id": "2373",
-                "type": "tasktype_4",
-                "complete_type": "completeTask_2373"
-            },
-            {
-                "task_id": "2372",
-                "type": "tasktype_4",
-                "complete_type": "completeTask_2372"
-            },
-            {
-                "task_id": "2506",
-                "type": "tasktype_18",
-                "complete_type": "completeTask_2506"
-            },
-            {
-                "task_id": "2371",
-                "type": "tasktype_16",
-                "complete_type": "completeTask_2371"
-            },
-            {
-                "task_id": "2370",
-                "type": "tasktype_7",
-                "complete_type": "completeTask_2370"
             }
         ]
     },

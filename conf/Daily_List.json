@@ -11,17 +11,22 @@
     },
     {
         "Task_Type": "DailyShare",
+        "Task_Id": "2608",
+        "Task_Url_Type": "daily"
+    },
+    {
+        "Task_Type": "DailyShare",
+        "Task_Id": "2626",
+        "Task_Url_Type": "daily"
+    },
+    {
+        "Task_Type": "DailyShare",
+        "Task_Id": "2640",
+        "Task_Url_Type": "daily"
+    },
+    {
+        "Task_Type": "DailyShare",
         "Task_Id": "2613",
-        "Task_Url_Type": "daily"
-    },
-    {
-        "Task_Type": "DailyShare",
-        "Task_Id": "2621",
-        "Task_Url_Type": "daily"
-    },
-    {
-        "Task_Type": "DailyShare",
-        "Task_Id": "2547",
         "Task_Url_Type": "daily"
     },
     {
@@ -31,22 +36,57 @@
     },
     {
         "Task_Type": "DailyShare",
-        "Task_Id": "2622",
+        "Task_Id": "2638",
         "Task_Url_Type": "daily"
     },
     {
         "Task_Type": "DailyShare",
-        "Task_Id": "2226",
+        "Task_Id": "2639",
+        "Task_Url_Type": "daily"
+    },
+    {
+        "Task_Type": "DailyDownGameLing",
+        "Task_Id": "2634",
         "Task_Url_Type": "daily"
     },
     {
         "Task_Type": "DailyShare",
-        "Task_Id": "2617",
+        "Task_Id": "2599",
         "Task_Url_Type": "daily"
     },
     {
         "Task_Type": "DailyShare",
-        "Task_Id": "2623",
+        "Task_Id": "2636",
+        "Task_Url_Type": "daily"
+    },
+    {
+        "Task_Type": "DailyShare",
+        "Task_Id": "2604",
+        "Task_Url_Type": "daily"
+    },
+    {
+        "Task_Type": "DailyShare",
+        "Task_Id": "2579",
+        "Task_Url_Type": "daily"
+    },
+    {
+        "Task_Type": "DailyShare",
+        "Task_Id": "2637",
+        "Task_Url_Type": "daily"
+    },
+    {
+        "Task_Type": "DailyShare",
+        "Task_Id": "2633",
+        "Task_Url_Type": "daily"
+    },
+    {
+        "Task_Type": "DailyDownGameLing",
+        "Task_Id": "2625",
+        "Task_Url_Type": "daily"
+    },
+    {
+        "Task_Type": "DailyDownGameLing",
+        "Task_Id": "2392",
         "Task_Url_Type": "daily"
     },
     {
@@ -56,47 +96,7 @@
     },
     {
         "Task_Type": "DailyShare",
-        "Task_Id": "2608",
-        "Task_Url_Type": "daily"
-    },
-    {
-        "Task_Type": "DailyShare",
-        "Task_Id": "2620",
-        "Task_Url_Type": "daily"
-    },
-    {
-        "Task_Type": "DailyShare",
-        "Task_Id": "2615",
-        "Task_Url_Type": "daily"
-    },
-    {
-        "Task_Type": "DailyShare",
         "Task_Id": "2511",
-        "Task_Url_Type": "daily"
-    },
-    {
-        "Task_Type": "DailyShare",
-        "Task_Id": "2616",
-        "Task_Url_Type": "daily"
-    },
-    {
-        "Task_Type": "DailyShare",
-        "Task_Id": "2614",
-        "Task_Url_Type": "daily"
-    },
-    {
-        "Task_Type": "DailyShare",
-        "Task_Id": "2618",
-        "Task_Url_Type": "daily"
-    },
-    {
-        "Task_Type": "DailyShare",
-        "Task_Id": "2606",
-        "Task_Url_Type": "daily"
-    },
-    {
-        "Task_Type": "DailyDownGameLing",
-        "Task_Id": "2527",
         "Task_Url_Type": "daily"
     },
     {
@@ -105,23 +105,8 @@
         "Task_Url_Type": "daily"
     },
     {
-        "Task_Type": "DailyShare",
-        "Task_Id": "2579",
-        "Task_Url_Type": "daily"
-    },
-    {
-        "Task_Type": "DailyDownGameLing",
-        "Task_Id": "2595",
-        "Task_Url_Type": "daily"
-    },
-    {
         "Task_Type": "DailyDownGameLing",
         "Task_Id": "2488",
-        "Task_Url_Type": "daily"
-    },
-    {
-        "Task_Type": "DailyDownGameLing",
-        "Task_Id": "2392",
         "Task_Url_Type": "daily"
     },
     {
@@ -132,6 +117,11 @@
     {
         "Task_Type": "DailyDati",
         "Task_Id": "7",
+        "Task_Url_Type": "daily"
+    },
+    {
+        "Task_Type": "DailySmallGame",
+        "Task_Id": "2631",
         "Task_Url_Type": "daily"
     },
     {
@@ -165,9 +155,9 @@
         "Task_Url_Type": "daily"
     },
     {
-        "Task_Type": "DailySmallGame",
-        "Task_Id": "1796",
-        "Task_Url_Type": "daily"
+        "Task_Type": "YcxToH5Url",
+        "Task_Id": "2628",
+        "Task_Url_Type": "ycx"
     },
     {
         "Task_Type": "YcxToH5Url",

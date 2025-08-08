@@ -6,12 +6,13 @@ import time
 import random
 import os
 import logging
-from threading import Thread
-from multiprocessing import Process
-from requests.adapters import HTTPAdapter
-from urllib3.util.retry import Retry
+import threading
+import time
+from concurrent.futures import ThreadPoolExecutor
 
 session = requests.Session()
+
+Popcorn_Id_List = ['0', '315']
 
 #
 # retry_strategy = Retry(
@@ -32,8 +33,9 @@ def Post_Activity(url, Task_Complete_Type, comm_id, Task_id, user):
     ac_list = ["completeTask"]
 
     #upGameTask类型的列表，用于筛选符合的类型
-    upGameTask_list = ["tasktype_2", "tasktype_7", "tasktype_10", "tasktype_11", "tasktype_14", "tasktype_16", "tasktype_18"]
-
+    upGameTask_list = ["tasktype_2", "tasktype_7", "tasktype_9", "tasktype_10", "tasktype_11", "tasktype_14", "tasktype_16", "tasktype_18", 'tasktype_17']
+    
+    Complete_List = ['tasktype_3', 'tasktype_4'] 
     #请求体
     payload = {
         'ac': 'getTaskPrize',
@@ -50,6 +52,17 @@ def Post_Activity(url, Task_Complete_Type, comm_id, Task_id, user):
         'User-Agent': user['User-Agent']
     }
     response_log = []
+
+    #判断是否已领取
+    response = json.loads(session.post(url, data=payload, headers=headers).text)
+    #if判断json的键值
+    if response.get('info') == '已领取过奖励':
+        return [{  # 返回包含错误信息的字典
+            "key": "Skip",
+            "info": "已领取过奖励",
+            "detail": f"今日已领取，comm_id={comm_id}, Task_id={Task_id}"
+        }]
+    
     #判断任务类别
     if Task_Complete_Type == 'tasktype_1' :
         #更改请求顺序
@@ -60,29 +73,31 @@ def Post_Activity(url, Task_Complete_Type, comm_id, Task_id, user):
         payload['task_id'] = Task_id
     #同上
     elif Task_Complete_Type in upGameTask_list :
-        #判断是否已领取
-        response = json.loads(session.post(url, data=payload, headers=headers).text)
-        #if判断json的键值
-        if response.get('info') == '已领取过奖励':
-            return [{  # 返回包含错误信息的字典
-                "key": "error",
-                "info": "已领取过奖励",
-                "detail": f"今日已领取，comm_id={comm_id}, Task_id={Task_id}"
-            }]
-
         ac_list = ["upGameTask", "completeTask"]
 
         payload['task_id'] = Task_id
 
         payload['type'] = '6'
+
+    elif Task_Complete_Type in Complete_List:
+        pass
+    else:
+        return [{  # 返回包含错误信息的字典
+            "key": "Error",
+            "info": "新型任务类别",
+            "TaskType": Task_Complete_Type
+        }]
+    
     #补充任务类型（两者分别为获取奖励和进行抽奖）
     ac_list = ac_list + ["getTaskPrize", "getLuckyPrize"]
     #设置循环变量
     cycle_current_num = 0
     #进入post请求循环，完成从“完成任务”到“抽取奖励”的过程
     while cycle_current_num < len(ac_list) :
-        #加入必须请求体
-        payload['ac'] = ac_list[cycle_current_num]
+        #选择请求类型
+        ac = ac_list[cycle_current_num]
+
+        payload['ac'] = ac
         #post请求
         payload['r'] = "0." + str(time.time_ns())[:-7] + str(random.randint(100,999))
 
@@ -158,12 +173,22 @@ def obtain_ac_ids(comm_ids_list):
 
     for i in comm_ids_list:
         #post请求的目的链接
-        object_web = 'https://act.3839.com/n/hykb/universal/ajax.php'
+        object_web = 'https://act.3839.com/n/hykb/universal/v.php'
 
+        #请求基础变量
         payload = {
-            'ac': 'getAllTasklist',
+            'ac': 'getTaskPrize',
             'comm_id': i
         }
+
+        #判断活动是否正常
+        response = json.loads(session.post(object_web, data=payload).text)
+
+        if str(response.get('key')) == '102':
+            #退出单次循环
+            continue
+
+        payload['ac'] = 'getAllTasklist'
 
         response = json.loads(session.post(object_web, data=payload).text)
 
@@ -366,7 +391,7 @@ def Daily_Complete(Daily_List, user):
 
     #如果浇水成功
     if response.get('key') == 'ok' :
-        #追加爆米花增加量
+        #追加爆米花增加量_dai
         Add_Popcorn_num += int(response.get('add_baomihua'))
 
     #遍历每日任务列表来完成任务
@@ -436,8 +461,12 @@ def Daily_Complete(Daily_List, user):
 def Activities_Complete(user):
     #Post目标链接
     url = 'https://act.3839.com/n/hykb/universal/ajax.php'
+
+    Error_Type_List = ['Skip', 'Error', 'no_cjnum', '102']
+
     #获取结果过滤列表
-    Info_List = conf['Info_List']
+    # Info_List = conf['Info_List']
+    
     #定义‘爆米花’获取数量的变量
     Popcorn_Current_Num = 0
     #定义传出结果变量
@@ -468,42 +497,29 @@ def Activities_Complete(user):
                 'Task_id': Task_id
             }
 
-            #判断该任务执行结果
+            #仅判断最后一个日志
             response = response[-1]
 
+            #数美验证不通过直接结束--error
             if str(response['key']) == "shumei_black_other" :
                 print(json.dumps(response, indent=4).encode().decode('unicode_escape'))
                 exit()
-
-            #如果不为成功
-            elif str(response['key']) != 'ok' :
-                #如果输出非奖品且非爆米花
-                if str(response.get('name')) in Info_List or response.get('key') == 'error':
-                    #结束单词循环
-                    continue
-                #反之
-                else :
-                    #处理结果
-                    result_log['info'] = response['info']
-                    #追加日志
-                    current_log['log'].append(result_log)
-            #如果结果为非爆米花且为奖品
-            elif str(response.get('code')) != '0' and response.get('code') is not None:
-                #处理日志
-                result_log['info'] = response['name']
-                result_log['code'] = response['code']
-                #追加日志
-                current_log['log'].append(result_log)
+            #判断是否为‘跳过’类型
+            elif str(response['key']) in Error_Type_List:
+                result_log['info'] = response['info']
             #排除完即为爆米花
-            elif str(response.get('id')) == '315':
+            elif str(response.get('id')) in Popcorn_Id_List and response.get('type') == 'bmh':
                 #处理日志
                 result_log['info'] = response['name']
                 #提取爆米花数额
                 Popcorn_num = re.search(r'\d+$', response['name']).group()
                 #追加爆米花数额
                 Popcorn_Current_Num += int(Popcorn_num)
+            else:
+                result_log['info'] = response['name']
 
-            
+            time.sleep(0.3)
+
 
         #追加该次活动的日志
         result.append(current_log)
@@ -516,6 +532,89 @@ def Activities_Complete(user):
     
     #返回日志
     return response
+
+def run(User_Num, Daily_List):
+    try:
+        ###前日志部分###
+
+        #设置初始变量    
+        Popcorn_Obtain_Num = 0
+
+        #用户配置文件名称
+        User_Name = "user-"+ str(User_Num)
+
+        #用户配置文件目录
+        User_Path = "./user/" + User_Name +".yaml"
+
+        #新日志文件名称
+        Log_File_Name = User_Name + "-" + str(int(time.time())) + '.log'
+
+        #新日志文件名称名称
+        Log_Path = './log/' + Log_File_Name
+
+        #读取用户配置文件
+        with open(str(User_Path), 'r', encoding='utf-8') as f:
+            user = yaml.load(f.read(), Loader=yaml.FullLoader)
+        
+        #确定日志格式
+        log = {
+            'user': "user-"+ str(User_Num) ,
+            'Get_bmh_num': 0 ,
+            'Getprize': []
+        }
+
+        #添加新的日志记录
+        user['Log_List'].append(Log_File_Name)
+
+        #日志处理器基础设置
+        # logging.basicConfig(
+        #     level=logging.INFO,
+        #     format="%(asctime)s [%(levelname)s] %(message)s",
+        #     handlers=[logging.FileHandler(Log_Path, encoding='UTF-8', mode='w'), logging.StreamHandler()],
+        # )
+
+        ###主函数运行###
+        
+        #完成每日活动任务
+        Response_Act = Activities_Complete(user)
+
+        #完成每日“赚爆米花”任务
+        Response_Daily = Daily_Complete(Daily_List, user)
+
+        ###后日志部分###
+
+        #处理爆米花数量
+        Popcorn_Obtain_Num += int(Response_Act['Popcorn_Current_Num'])
+        #追加日志
+        log['Getprize'] = Response_Act['result']
+
+        #追加爆米花数量
+        Popcorn_Obtain_Num += int(Response_Daily['Add_Popcorn_num'])
+
+        #追加日志
+        log['Add_Corn_num'] = Response_Daily['Add_Corn_num']
+
+        #创建和确认文件及其目录的存在
+        os.makedirs(os.path.dirname(Log_Path), exist_ok=True)
+
+        #除去老旧日志文件
+        while user['Log_List'] and len(user['Log_List']) >= 4:
+            #待移除的日志目录
+            Log_Remove_Path = './log/' + user['Log_List'][0]
+            #删除用户配置文件的日志记录
+            user['Log_List'].pop(0)
+            #删除日志文件
+            os.remove(Log_Remove_Path)
+
+        #将写入日志记录写进配置文件
+        with open(User_Path, 'w', encoding='utf-8') as f:
+            yaml.safe_dump(user, f)
+
+        #将日志写入新日志文件
+        with open(Log_Path, 'w', encoding='utf-8') as f:
+            json.dump(log, f, indent=2, ensure_ascii=False)
+    except Exception as e:
+        print(f"线程-用户{User_Num}执行失败: {str(e)}")
 
 #读取总配置文件
 with open('./conf/config.yaml', 'r', encoding='utf-8') as f:

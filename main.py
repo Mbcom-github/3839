@@ -173,7 +173,7 @@ def obtain_ac_ids(comm_ids_list):
 
     for i in comm_ids_list:
         #post请求的目的链接
-        object_web = 'https://act.3839.com/n/hykb/universal/v.php'
+        object_web = 'https://act.3839.com/n/hykb/universal/ajax.php'
 
         #请求基础变量
         payload = {
